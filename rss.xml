@@ -243,51 +243,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/</guid>
-            <title>对比学习</title>
-            <link>http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/</link>
-            <category term="5-8组" scheme="http://example.com/categories/fivetoeight/" />
-            <category term="Python" scheme="http://example.com/tags/Python/" />
-            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
-            <category term="无监督学习" scheme="http://example.com/tags/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/" />
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
-&lt;p&gt; 对比学习（ Contrastive Learning ）的思想最开始产生于 CV 领域，其主要的思路是，给定一个样本，对其进行数据增强，将增强的结果视为正例；然后，其他所有的样本视为负例。对比学习是一种自监督学习方法，用于在没有标签的情况下，通过让模型学习哪些数据点相似或不同来学习数据集的一般特征。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;智能 2002 王子萱   2030330079&lt;/li&gt;
-&lt;li&gt;智能 2002 王菲     2030330078&lt;/li&gt;
-&lt;li&gt;智能 2002 芮小茹   2030330077&lt;/li&gt;
-&lt;li&gt;智能 2002 魏婷     2030330080&lt;/li&gt;
-&lt;li&gt;智能 2001 洪熠晖   2030330004&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：王子萱&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;开始阅读论文并解读&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：芮小茹&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;继续阅读论文&lt;/li&gt;
-&lt;li&gt;开始看代码&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：魏婷&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;pytorch 学到卷积&lt;/li&gt;
-&lt;li&gt;理解论文&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：王菲&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;开始跑代码&lt;/li&gt;
-&lt;li&gt;调试代码&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://example.com/2023/01/20/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB/</guid>
             <title>少样本识别</title>
             <link>http://example.com/2023/01/20/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB/</link>
@@ -334,55 +289,47 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</guid>
-            <title>异常检测</title>
-            <link>http://example.com/2023/01/20/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</link>
-            <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
-            <category term="深度学习" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/" />
-            <category term="异常检测" scheme="http://example.com/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/" />
+            <guid isPermalink="true">http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/</guid>
+            <title>对比学习</title>
+            <link>http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/</link>
+            <category term="5-8组" scheme="http://example.com/categories/fivetoeight/" />
+            <category term="Python" scheme="http://example.com/tags/Python/" />
+            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
+            <category term="无监督学习" scheme="http://example.com/tags/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/" />
             <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
-&lt;p&gt;题目&lt;br /&gt;
-基于中心引导判别学习的弱监督视频异常检测。&lt;br /&gt;
-简介&lt;br /&gt;
-视频异常检测是计算机视觉中一项重要而又具有挑战性的任务，被广泛应用于犯罪预警、智能视频监控和证据收集等领域。&lt;br /&gt;
-由于异常视频内容和时长的多样性，监控视频中的异常检测是一项具有挑战性的任务。本项目中视频异常检测被看作是一个弱监督下视频片段异常分数的回归问题。我们使用 AR-Net 异常检测框架，它在训练阶段只需要视频级别的标签。此外，为了学习异常检测的判别特征，我们运用一个动态多实例学习损失和一个中心损失。前者用于扩大异常实例和正常实例之间的类间距离，而后者用于缩小正常实例的类内距离。综合实验是在一个具有挑战性的 benchmark 上进行的: Shang-haiTech。该方法为 Shang-haiTech 数据集上的视频异常检测提供了新的最优结果。&lt;/p&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
+&lt;p&gt; 对比学习（ Contrastive Learning ）的思想最开始产生于 CV 领域，其主要的思路是，给定一个样本，对其进行数据增强，将增强的结果视为正例；然后，其他所有的样本视为负例。对比学习是一种自监督学习方法，用于在没有标签的情况下，通过让模型学习哪些数据点相似或不同来学习数据集的一般特征。&lt;/p&gt;
 &lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;智能 2001 朱好好 2030330044&lt;/li&gt;
-&lt;li&gt;智能 2002 刘卓 2030330055&lt;/li&gt;
-&lt;li&gt;智能 2002 高宇静 2030330066&lt;/li&gt;
-&lt;li&gt;智能 2002 李若婉 2030330069&lt;/li&gt;
-&lt;li&gt;智能 2002 叶如玉 2030330082&lt;/li&gt;
-&lt;li&gt;智能 2001 李康胜 2030330006&lt;/li&gt;
+&lt;li&gt;智能 2002 王子萱   2030330079&lt;/li&gt;
+&lt;li&gt;智能 2002 王菲     2030330078&lt;/li&gt;
+&lt;li&gt;智能 2002 芮小茹   2030330077&lt;/li&gt;
+&lt;li&gt;智能 2002 魏婷     2030330080&lt;/li&gt;
+&lt;li&gt;智能 2001 洪熠晖   2030330004&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
 &lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：朱好好&lt;/p&gt;
+&lt;p&gt;汇报人：王子萱&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;学 pytorch 配置环境&lt;/li&gt;
+&lt;li&gt;开始阅读论文并解读&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：朱好好&lt;/p&gt;
+&lt;p&gt;汇报人：芮小茹&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;环境已经配置完成&lt;/li&gt;
-&lt;li&gt;开始学习 tensorboard&lt;/li&gt;
+&lt;li&gt;继续阅读论文&lt;/li&gt;
+&lt;li&gt;开始看代码&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：李若婉&lt;/p&gt;
+&lt;p&gt;汇报人：魏婷&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;跑代码&lt;/li&gt;
-&lt;li&gt;处理数据集&lt;/li&gt;
-&lt;li&gt;继续学习 pytorch&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B6.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;pytorch 学到卷积&lt;/li&gt;
+&lt;li&gt;理解论文&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：朱好好&lt;/p&gt;
+&lt;p&gt;汇报人：王菲&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;跑代码&lt;/li&gt;
-&lt;li&gt;处理数据集&lt;/li&gt;
-&lt;li&gt;组员学习完 pytorch 视频&lt;/li&gt;
-&lt;li&gt;环境配置已成功&lt;/li&gt;
+&lt;li&gt;开始跑代码&lt;/li&gt;
+&lt;li&gt;调试代码&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -440,49 +387,55 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1/</guid>
-            <title>深度网络防御</title>
-            <link>http://example.com/2023/01/20/%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1/</link>
-            <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
-            <category term="Python" scheme="http://example.com/tags/Python/" />
+            <guid isPermalink="true">http://example.com/2023/01/20/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</guid>
+            <title>异常检测</title>
+            <link>http://example.com/2023/01/20/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</link>
+            <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
             <category term="深度学习" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/" />
-            <category term="网络防御" scheme="http://example.com/tags/%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1/" />
+            <category term="异常检测" scheme="http://example.com/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/" />
             <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员：&lt;/h1&gt;
+&lt;p&gt;题目&lt;br /&gt;
+基于中心引导判别学习的弱监督视频异常检测。&lt;br /&gt;
+简介&lt;br /&gt;
+视频异常检测是计算机视觉中一项重要而又具有挑战性的任务，被广泛应用于犯罪预警、智能视频监控和证据收集等领域。&lt;br /&gt;
+由于异常视频内容和时长的多样性，监控视频中的异常检测是一项具有挑战性的任务。本项目中视频异常检测被看作是一个弱监督下视频片段异常分数的回归问题。我们使用 AR-Net 异常检测框架，它在训练阶段只需要视频级别的标签。此外，为了学习异常检测的判别特征，我们运用一个动态多实例学习损失和一个中心损失。前者用于扩大异常实例和正常实例之间的类间距离，而后者用于缩小正常实例的类内距离。综合实验是在一个具有挑战性的 benchmark 上进行的: Shang-haiTech。该方法为 Shang-haiTech 数据集上的视频异常检测提供了新的最优结果。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;智能 2001 赵明旭 2030330016&lt;/li&gt;
-&lt;li&gt;智能 2001 张广   2030330014&lt;/li&gt;
-&lt;li&gt;智能 2001 张世阔 2030330015&lt;/li&gt;
-&lt;li&gt;智能 2001 周鹏   2030330017&lt;/li&gt;
-&lt;li&gt;智能 2001 肖骁   2030330013&lt;/li&gt;
-&lt;li&gt;智能 2002 陈华栋 2030330047&lt;/li&gt;
+&lt;li&gt;智能 2001 朱好好 2030330044&lt;/li&gt;
+&lt;li&gt;智能 2002 刘卓 2030330055&lt;/li&gt;
+&lt;li&gt;智能 2002 高宇静 2030330066&lt;/li&gt;
+&lt;li&gt;智能 2002 李若婉 2030330069&lt;/li&gt;
+&lt;li&gt;智能 2002 叶如玉 2030330082&lt;/li&gt;
+&lt;li&gt;智能 2001 李康胜 2030330006&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;课程进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程进度&#34;&gt;#&lt;/a&gt; 课程进度：&lt;/h1&gt;
+&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
 &lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：赵明旭&lt;/p&gt;
+&lt;p&gt;汇报人：朱好好&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;在 B 站学习相关内容&lt;/li&gt;
-&lt;li&gt;调试环境&lt;/li&gt;
+&lt;li&gt;学 pytorch 配置环境&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：周鹏&lt;/p&gt;
+&lt;p&gt;汇报人：朱好好&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;换题目（入门深度网络防御）&lt;/li&gt;
-&lt;li&gt;学习相关知识&lt;/li&gt;
+&lt;li&gt;环境已经配置完成&lt;/li&gt;
+&lt;li&gt;开始学习 tensorboard&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：陈华栋&lt;/p&gt;
+&lt;p&gt;汇报人：李若婉&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;开始进行代码注释&lt;/li&gt;
-&lt;li&gt;初步开始跑代码&lt;/li&gt;
-&lt;li&gt;学习 tensorflow&lt;/li&gt;
+&lt;li&gt;跑代码&lt;/li&gt;
+&lt;li&gt;处理数据集&lt;/li&gt;
+&lt;li&gt;继续学习 pytorch&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B6.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：张世阔&lt;/p&gt;
+&lt;p&gt;汇报人：朱好好&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;继续跑代码&lt;/li&gt;
+&lt;li&gt;跑代码&lt;/li&gt;
+&lt;li&gt;处理数据集&lt;/li&gt;
+&lt;li&gt;组员学习完 pytorch 视频&lt;/li&gt;
+&lt;li&gt;环境配置已成功&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -538,6 +491,106 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xLVQxZnNNZW5CQTJpdTFIdVJ5NVhUMHFGVzhtaWV6LTMvdmlldz91c3A9c2hhcmluZw==&#34;&gt;https://drive.google.com/file/d/1-T1fsMenBA2iu1HuRy5XT0qFW8miez-3/view?usp=sharing&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xb0ptVnhJdXNEU1dNWjN5eUthTVFTRmdpNjZ3a2FkZ20yL3ZpZXc/dXNwPXNoYXJpbmc=&#34;&gt;https://drive.google.com/file/d/1oJmVxIusDSWMZ3yyKaMQSFgi66wkadgm2/view?usp=sharing&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;logger：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTDZCVC1Ud3pjZk9xZHZpWGgtOXZUV2YwVndGOVJHVFMvdmlldz91c3A9c2hhcmluZw==&#34;&gt;https://drive.google.com/file/d/1L6BT-TwzcfOqdviXh-9vTWf0VwF9RGTS/view?usp=sharing&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1/</guid>
+            <title>深度网络防御</title>
+            <link>http://example.com/2023/01/20/%E6%B7%B1%E5%BA%A6%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1/</link>
+            <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
+            <category term="Python" scheme="http://example.com/tags/Python/" />
+            <category term="深度学习" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/" />
+            <category term="网络防御" scheme="http://example.com/tags/%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1/" />
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员：&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2001 赵明旭 2030330016&lt;/li&gt;
+&lt;li&gt;智能 2001 张广   2030330014&lt;/li&gt;
+&lt;li&gt;智能 2001 张世阔 2030330015&lt;/li&gt;
+&lt;li&gt;智能 2001 周鹏   2030330017&lt;/li&gt;
+&lt;li&gt;智能 2001 肖骁   2030330013&lt;/li&gt;
+&lt;li&gt;智能 2002 陈华栋 2030330047&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课程进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程进度&#34;&gt;#&lt;/a&gt; 课程进度：&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：赵明旭&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在 B 站学习相关内容&lt;/li&gt;
+&lt;li&gt;调试环境&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：周鹏&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;换题目（入门深度网络防御）&lt;/li&gt;
+&lt;li&gt;学习相关知识&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：陈华栋&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开始进行代码注释&lt;/li&gt;
+&lt;li&gt;初步开始跑代码&lt;/li&gt;
+&lt;li&gt;学习 tensorflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：张世阔&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;继续跑代码&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B/</guid>
+            <title>股票价格预测</title>
+            <link>http://example.com/2023/01/20/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B/</link>
+            <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
+            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
+            <category term="RNN" scheme="http://example.com/tags/RNN/" />
+            <category term="LSTM" scheme="http://example.com/tags/LSTM/" />
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
+&lt;p&gt;近年来，股票预测还处于一个很热门的阶段，因为股票市场的波动十分巨大，随时可能因为一些新的政策或者其他原因，进行大幅度的波动，导致自然人股民很难对股票进行投资盈利。因此本文想利用现有的模型与算法，对股票价格进行预测，从而使自然人股民可以自己对股票进行预测。理论上，股票价格是可以预测的，但是影响股票价格的因素有很多，而且目前为止，它们对股票的影响还不能清晰定义。这是因为股票预测是高度非线性的，这就要预测模型要能够处理非线性问题，并且，股票具有时间序列的特性，因此适合用循环神经网络，对股票进行预测。虽然循环神经网络（RNN），允许信息的持久化，然而，一般的 RNN 模型对具备长记忆性的时间序列数据刻画能力较弱，在时间序列过长的时候，因为存在梯度消散和梯度爆炸现象 RNN 训练变得非常困难。Hochreiter 和 Schmidhuber 提出的长短期记忆（ Long Short-Term Memory，LSTM）模型在 RNN 结构的基础上进行了改造，从而解决了 RNN 模型无法刻画时间序列长记忆性的问题。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2001 于瀛     2030330041&lt;/li&gt;
+&lt;li&gt;智能 2001 高冰洋   2030330020&lt;/li&gt;
+&lt;li&gt;智能 2001 于津柳   2030330039&lt;/li&gt;
+&lt;li&gt;智能 2001 于凯桦   2030330040&lt;/li&gt;
+&lt;li&gt;智能 2001 韦亚妮   2030330036&lt;/li&gt;
+&lt;li&gt;智能 2001 温宇婷   2030330038&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：于瀛&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;课题由去模糊换成股票价格预测，调试环境，下载了需要的 pytorch_lightning 和 pytorch forecasting 功能包，尝试跑代码&lt;/li&gt;
+&lt;li&gt;看 pytorch 入门视频&lt;br /&gt;
+【PyTorch 深度学习快速入门教程（绝对通俗易懂！）【小土堆】】&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMWhFNDExdDdSTi8/c2hhcmVfc291cmNlPWNvcHlfd2ViJmFtcDt2ZF9zb3VyY2U9OTMyY2U4MjVjZmQ0NDQ3OTIwNTNiMzRkZWU1ODZkMmYlRUYlQkMlOEM=&#34;&gt;https://www.bilibili.com/video/BV1hE411t7RN/?share_source=copy_web&amp;amp;vd_source=932ce825cfd444792053b34dee586d2f，&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;了解了模型训练基本代码，了解基本流程，&lt;br /&gt;
+比如：数据集，tensorboard&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：于瀛&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;大体看了一下预测股票的模型方法，大概看了论文，将代码各部分功能大概看了一下&lt;/li&gt;
+&lt;li&gt;看了 pytorch 官方教程，补充了一下 python 基础&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：于瀛&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代码看完，了解了模型各部分的基本架构，了解了 transform&lt;/li&gt;
+&lt;li&gt;补充了深度学习的相关基础知识，补充了高数，矩阵乘法相关知识；学习了专业名词的含义，比如：label，target 等&lt;/li&gt;
+&lt;li&gt;了解了 softmax 功能、context vector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：于瀛&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;调试 jupyter notebook 运行环境，代码跑通&lt;/li&gt;
+&lt;li&gt;深入理解了论文模型，对论文模型图做注释，了解了 self-attention 基本框架，尝试理解 muti-head attention，看了神经网络相关基础知识。&lt;/li&gt;
+&lt;li&gt;了解了模型中 GRN 的功能，进行非线性变换；valuable selection 进行重要特征选择；以分位数预测作为输出结果。&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -640,59 +693,6 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;p&gt;汇报人：高洁&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;开始跑代码&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B/</guid>
-            <title>股票价格预测</title>
-            <link>http://example.com/2023/01/20/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B/</link>
-            <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
-            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
-            <category term="RNN" scheme="http://example.com/tags/RNN/" />
-            <category term="LSTM" scheme="http://example.com/tags/LSTM/" />
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
-&lt;p&gt;近年来，股票预测还处于一个很热门的阶段，因为股票市场的波动十分巨大，随时可能因为一些新的政策或者其他原因，进行大幅度的波动，导致自然人股民很难对股票进行投资盈利。因此本文想利用现有的模型与算法，对股票价格进行预测，从而使自然人股民可以自己对股票进行预测。理论上，股票价格是可以预测的，但是影响股票价格的因素有很多，而且目前为止，它们对股票的影响还不能清晰定义。这是因为股票预测是高度非线性的，这就要预测模型要能够处理非线性问题，并且，股票具有时间序列的特性，因此适合用循环神经网络，对股票进行预测。虽然循环神经网络（RNN），允许信息的持久化，然而，一般的 RNN 模型对具备长记忆性的时间序列数据刻画能力较弱，在时间序列过长的时候，因为存在梯度消散和梯度爆炸现象 RNN 训练变得非常困难。Hochreiter 和 Schmidhuber 提出的长短期记忆（ Long Short-Term Memory，LSTM）模型在 RNN 结构的基础上进行了改造，从而解决了 RNN 模型无法刻画时间序列长记忆性的问题。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;智能 2001 于瀛     2030330041&lt;/li&gt;
-&lt;li&gt;智能 2001 高冰洋   2030330020&lt;/li&gt;
-&lt;li&gt;智能 2001 于津柳   2030330039&lt;/li&gt;
-&lt;li&gt;智能 2001 于凯桦   2030330040&lt;/li&gt;
-&lt;li&gt;智能 2001 韦亚妮   2030330036&lt;/li&gt;
-&lt;li&gt;智能 2001 温宇婷   2030330038&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：于瀛&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;课题由去模糊换成股票价格预测，调试环境，下载了需要的 pytorch_lightning 和 pytorch forecasting 功能包，尝试跑代码&lt;/li&gt;
-&lt;li&gt;看 pytorch 入门视频&lt;br /&gt;
-【PyTorch 深度学习快速入门教程（绝对通俗易懂！）【小土堆】】&lt;br /&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMWhFNDExdDdSTi8/c2hhcmVfc291cmNlPWNvcHlfd2ViJmFtcDt2ZF9zb3VyY2U9OTMyY2U4MjVjZmQ0NDQ3OTIwNTNiMzRkZWU1ODZkMmYlRUYlQkMlOEM=&#34;&gt;https://www.bilibili.com/video/BV1hE411t7RN/?share_source=copy_web&amp;amp;vd_source=932ce825cfd444792053b34dee586d2f，&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;了解了模型训练基本代码，了解基本流程，&lt;br /&gt;
-比如：数据集，tensorboard&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：于瀛&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;大体看了一下预测股票的模型方法，大概看了论文，将代码各部分功能大概看了一下&lt;/li&gt;
-&lt;li&gt;看了 pytorch 官方教程，补充了一下 python 基础&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：于瀛&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;代码看完，了解了模型各部分的基本架构，了解了 transform&lt;/li&gt;
-&lt;li&gt;补充了深度学习的相关基础知识，补充了高数，矩阵乘法相关知识；学习了专业名词的含义，比如：label，target 等&lt;/li&gt;
-&lt;li&gt;了解了 softmax 功能、context vector&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：于瀛&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;调试 jupyter notebook 运行环境，代码跑通&lt;/li&gt;
-&lt;li&gt;深入理解了论文模型，对论文模型图做注释，了解了 self-attention 基本框架，尝试理解 muti-head attention，看了神经网络相关基础知识。&lt;/li&gt;
-&lt;li&gt;了解了模型中 GRN 的功能，进行非线性变换；valuable selection 进行重要特征选择；以分位数预测作为输出结果。&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
