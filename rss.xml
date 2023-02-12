@@ -145,52 +145,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E5%8E%BB%E6%A8%A1%E7%B3%8A/</guid>
-            <title>去模糊</title>
-            <link>http://example.com/2023/01/20/%E5%8E%BB%E6%A8%A1%E7%B3%8A/</link>
-            <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
-            <category term="Python" scheme="http://example.com/tags/Python/" />
-            <category term="去模糊" scheme="http://example.com/tags/%E5%8E%BB%E6%A8%A1%E7%B3%8A/" />
-            <category term="深度傅里叶变换" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/" />
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
-&lt;p&gt;题目：单幅图像频域去模糊&lt;br /&gt;
-简介：在端到端图像去模糊架构中，通常会采用 ResBlock 来学习模糊和清晰图像对之间的区别。从模糊的图像中重建一个清晰的图像需要改变低频和高频信息。虽然传统的 ResBlock 可以很好的捕捉图像的高频分量，但它往往会忽略低频信息。此外，ResBlock 通常不能有效地对长距离信息建模，这在从模糊图像中重建清晰图像时是非常重要的。在本项目中，我们用一种带有卷积块 (Res FFT-Conv Block) 的残差快速傅里叶变换，能够捕获长期和短期交互，同时集成低频和高频残差信息。Res FFT-Conv Block 是一个概念简单但计算效率高的即插即用块，在不同的架构中获得了显著的性能提高。利用 Res FFT-Conv Block，我们进一步提出了一个基于 MIMO-UNet 的深度残差傅里叶变换 (DeepRFT) 框架，在 GoPro、HIDE、RealBlur 和 DPDD 数据集上实现了最先进的图像去模糊性能。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;智能 2002 张子怡 2030330089&lt;/li&gt;
-&lt;li&gt;智能 2002 李爽 2030330070&lt;/li&gt;
-&lt;li&gt;智能 2002 杨雨杭 2030330081&lt;/li&gt;
-&lt;li&gt;智能 2002 常心月 2030330018&lt;/li&gt;
-&lt;li&gt;智能 2002 曹泽恩 2030330046&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：曹泽恩&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;研究论文注释代码&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：张子怡&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;翻译论文&lt;/li&gt;
-&lt;li&gt;环境配置成功&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：张子怡&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;读相关文章&lt;/li&gt;
-&lt;li&gt;开始调试代码&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：张子怡&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;调试代码：pycharm 运行出现问题，大家开始学习 colab，预计下周可以跑通代码&lt;/li&gt;
-&lt;li&gt;阅读论文：阅读与单幅图像去模糊相关的文献与资料，理清论文思路&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://example.com/2023/01/20/%E5%9F%BA%E4%BA%8E%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/</guid>
             <title>基于强化学习的光流去模糊</title>
             <link>http://example.com/2023/01/20/%E5%9F%BA%E4%BA%8E%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/</link>
@@ -243,6 +197,52 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E5%8E%BB%E6%A8%A1%E7%B3%8A/</guid>
+            <title>去模糊</title>
+            <link>http://example.com/2023/01/20/%E5%8E%BB%E6%A8%A1%E7%B3%8A/</link>
+            <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
+            <category term="Python" scheme="http://example.com/tags/Python/" />
+            <category term="去模糊" scheme="http://example.com/tags/%E5%8E%BB%E6%A8%A1%E7%B3%8A/" />
+            <category term="深度傅里叶变换" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2/" />
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
+&lt;p&gt;题目：单幅图像频域去模糊&lt;br /&gt;
+简介：在端到端图像去模糊架构中，通常会采用 ResBlock 来学习模糊和清晰图像对之间的区别。从模糊的图像中重建一个清晰的图像需要改变低频和高频信息。虽然传统的 ResBlock 可以很好的捕捉图像的高频分量，但它往往会忽略低频信息。此外，ResBlock 通常不能有效地对长距离信息建模，这在从模糊图像中重建清晰图像时是非常重要的。在本项目中，我们用一种带有卷积块 (Res FFT-Conv Block) 的残差快速傅里叶变换，能够捕获长期和短期交互，同时集成低频和高频残差信息。Res FFT-Conv Block 是一个概念简单但计算效率高的即插即用块，在不同的架构中获得了显著的性能提高。利用 Res FFT-Conv Block，我们进一步提出了一个基于 MIMO-UNet 的深度残差傅里叶变换 (DeepRFT) 框架，在 GoPro、HIDE、RealBlur 和 DPDD 数据集上实现了最先进的图像去模糊性能。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2002 张子怡 2030330089&lt;/li&gt;
+&lt;li&gt;智能 2002 李爽 2030330070&lt;/li&gt;
+&lt;li&gt;智能 2002 杨雨杭 2030330081&lt;/li&gt;
+&lt;li&gt;智能 2002 常心月 2030330018&lt;/li&gt;
+&lt;li&gt;智能 2002 曹泽恩 2030330046&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：曹泽恩&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;研究论文注释代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：张子怡&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;翻译论文&lt;/li&gt;
+&lt;li&gt;环境配置成功&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：张子怡&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;读相关文章&lt;/li&gt;
+&lt;li&gt;开始调试代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：张子怡&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;调试代码：pycharm 运行出现问题，大家开始学习 colab，预计下周可以跑通代码&lt;/li&gt;
+&lt;li&gt;阅读论文：阅读与单幅图像去模糊相关的文献与资料，理清论文思路&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/</guid>
             <title>对比学习</title>
             <link>http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/</link>
@@ -266,24 +266,27 @@
 &lt;p&gt;汇报人：王子萱&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;开始阅读论文并解读&lt;/li&gt;
+&lt;li&gt;具体的运行代码翻译（构建对象；模型定义；创建数据库，建造模型，导入模块；预训练模型，评估模型；测试模型及结果；生成训练数据；数据训练；训练 SVM 分类器）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
 &lt;p&gt;汇报人：芮小茹&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;继续阅读论文&lt;/li&gt;
-&lt;li&gt;开始看代码&lt;/li&gt;
+&lt;li&gt;Python 基础知识学习&lt;/li&gt;
+&lt;li&gt;继续阅读论文并进行解读&lt;/li&gt;
+&lt;li&gt;进行 PCL 算法代码翻&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
 &lt;p&gt;汇报人：魏婷&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;python 学到字典&lt;/li&gt;
 &lt;li&gt;pytorch 学到卷积&lt;/li&gt;
 &lt;li&gt;理解论文&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
 &lt;p&gt;汇报人：王菲&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;开始跑代码&lt;/li&gt;
-&lt;li&gt;调试代码&lt;/li&gt;
+&lt;li&gt;python 学习、pytorch 学习，将之前的剩余内容学完&lt;/li&gt;
+&lt;li&gt;对代码进行了进一步的解释，开始调试、跑代码，约完成了 70%&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -504,7 +507,7 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
             <category term="网络防御" scheme="http://example.com/tags/%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1/" />
             <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; 网络防御通常包括预防、检测和响应。在遭受网络攻击之前，计算机网络防御的对策是采用管理上、技术上的各种措施，防止或阻止敌方对己方网络系统的攻击和非授权访问；在网络攻击过程中，采取各种网络防御技术，检测正在发生的网络攻击行为，并做好现场保护，分析攻击源，同时有效控制攻击的影响和范围；在攻击发生之后，尽快作出响应（包括网络反击），恢复己方网络系统的作战功能，确保作战效能的发挥。&lt;/p&gt;
 &lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员：&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;智能 2001 赵明旭 2030330016&lt;/li&gt;
@@ -649,54 +652,6 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B/</guid>
-            <title>使用Timewise Latents的人类轨迹预测</title>
-            <link>http://example.com/2023/01/20/%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B/</link>
-            <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
-            <category term="Python" scheme="http://example.com/tags/Python/" />
-            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
-            <category term="计算机视觉" scheme="http://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" />
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
-&lt;p&gt; 人类轨迹预测主要对行人轨迹预测的技术分类和研究现状进行详细的综述。根据模型建模方式的不同，将现有方法分为基于浅层学习的轨迹预测方法和基于深度学习的轨迹预测方法，分析了每类方法中具有代表性的算法的效果及优缺点，归纳了当前主流的轨迹预测公开数据集，并在数据集中对比了主流轨迹预测方法的性能，最后对轨迹预测技术面临的挑战与发展趋势进行了展望。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;智能 2002 刘政  2030330054&lt;/li&gt;
-&lt;li&gt;智能 2002 张国政  2030330058&lt;/li&gt;
-&lt;li&gt;智能 2002 李明武  2030330053&lt;/li&gt;
-&lt;li&gt;智能 2002 许一帆  2030330057&lt;/li&gt;
-&lt;li&gt;智能 2002 夏梦杰  2030330056&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课程进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程进度&#34;&gt;#&lt;/a&gt; 课程进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：刘政&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学习 python 基础知识&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：刘政&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;继续学习 python&lt;/li&gt;
-&lt;li&gt;开始代码的注释&lt;/li&gt;
-&lt;li&gt;论文内容的学习&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：刘政&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学习深度学习的知识&lt;/li&gt;
-&lt;li&gt;开始跑代码&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：刘政&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;nba 数据测试完毕&lt;/li&gt;
-&lt;li&gt;将代码跑通三个&lt;/li&gt;
-&lt;li&gt;调试部分代码&lt;/li&gt;
-&lt;li&gt;研读论文模板&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://example.com/2023/01/20/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</guid>
             <title>脉冲神经网络</title>
             <link>http://example.com/2023/01/20/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
@@ -741,6 +696,54 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;p&gt;汇报人：高洁&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;开始跑代码&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B/</guid>
+            <title>使用Timewise Latents的人类轨迹预测</title>
+            <link>http://example.com/2023/01/20/%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B/</link>
+            <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
+            <category term="Python" scheme="http://example.com/tags/Python/" />
+            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
+            <category term="计算机视觉" scheme="http://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" />
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
+&lt;p&gt; 人类轨迹预测主要对行人轨迹预测的技术分类和研究现状进行详细的综述。根据模型建模方式的不同，将现有方法分为基于浅层学习的轨迹预测方法和基于深度学习的轨迹预测方法，分析了每类方法中具有代表性的算法的效果及优缺点，归纳了当前主流的轨迹预测公开数据集，并在数据集中对比了主流轨迹预测方法的性能，最后对轨迹预测技术面临的挑战与发展趋势进行了展望。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2002 刘政  2030330054&lt;/li&gt;
+&lt;li&gt;智能 2002 张国政  2030330058&lt;/li&gt;
+&lt;li&gt;智能 2002 李明武  2030330053&lt;/li&gt;
+&lt;li&gt;智能 2002 许一帆  2030330057&lt;/li&gt;
+&lt;li&gt;智能 2002 夏梦杰  2030330056&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课程进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程进度&#34;&gt;#&lt;/a&gt; 课程进度&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘政&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习 python 基础知识&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘政&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;继续学习 python&lt;/li&gt;
+&lt;li&gt;开始代码的注释&lt;/li&gt;
+&lt;li&gt;论文内容的学习&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘政&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习深度学习的知识&lt;/li&gt;
+&lt;li&gt;开始跑代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘政&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nba 数据测试完毕&lt;/li&gt;
+&lt;li&gt;将代码跑通三个&lt;/li&gt;
+&lt;li&gt;调试部分代码&lt;/li&gt;
+&lt;li&gt;研读论文模板&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
