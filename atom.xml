@@ -64,30 +64,6 @@
         <updated>2023-01-19T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</id>
-        <title>关于课设</title>
-        <link rel="alternate" href="http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/"/>
-        <content type="html">&lt;p&gt;这是由 2020 级智能科学与技术专业的同学完成的课程设计实验课题，由智能 2001 班和智能 2002 班分别组成各个小组完成不同的课题，搭建网站小组成员将各小组课题进度记录在此网站。&lt;/p&gt;
-&lt;h1 id=&#34;课程设计各小组实验课题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程设计各小组实验课题&#34;&gt;#&lt;/a&gt; 课程设计各小组实验课题&lt;/h1&gt;
-&lt;p&gt;异常检测&lt;br /&gt;
-去模糊&lt;br /&gt;
-搭建网站&lt;br /&gt;
-股票价格预测&lt;br /&gt;
-运动预测&lt;br /&gt;
-少样本识别&lt;br /&gt;
-对比学习&lt;br /&gt;
-基于强化学习光流去模糊&lt;br /&gt;
-光流去模糊&lt;br /&gt;
-人体姿态估计&lt;br /&gt;
-时序异常检测&lt;br /&gt;
-红外图像融合&lt;br /&gt;
-脉冲神经网络&lt;br /&gt;
-深度网络防御&lt;br /&gt;
-使用 Timewise Latents 的人类轨迹预测&lt;/p&gt;
-</content>
-        <updated>2023-01-19T16:00:00.000Z</updated>
-    </entry>
-    <entry>
         <id>http://example.com/2023/01/20/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/</id>
         <title>光流去模糊</title>
         <link rel="alternate" href="http://example.com/2023/01/20/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/"/>
@@ -139,6 +115,30 @@
         <category term="Python" scheme="http://example.com/tags/Python/" />
         <category term="去模糊" scheme="http://example.com/tags/%E5%8E%BB%E6%A8%A1%E7%B3%8A/" />
         <category term="MMP" scheme="http://example.com/tags/MMP/" />
+        <updated>2023-01-19T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</id>
+        <title>关于课设</title>
+        <link rel="alternate" href="http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/"/>
+        <content type="html">&lt;p&gt;这是由 2020 级智能科学与技术专业的同学完成的课程设计实验课题，由智能 2001 班和智能 2002 班分别组成各个小组完成不同的课题，搭建网站小组成员将各小组课题进度记录在此网站。&lt;/p&gt;
+&lt;h1 id=&#34;课程设计各小组实验课题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程设计各小组实验课题&#34;&gt;#&lt;/a&gt; 课程设计各小组实验课题&lt;/h1&gt;
+&lt;p&gt;异常检测&lt;br /&gt;
+去模糊&lt;br /&gt;
+搭建网站&lt;br /&gt;
+股票价格预测&lt;br /&gt;
+运动预测&lt;br /&gt;
+少样本识别&lt;br /&gt;
+对比学习&lt;br /&gt;
+基于强化学习光流去模糊&lt;br /&gt;
+光流去模糊&lt;br /&gt;
+人体姿态估计&lt;br /&gt;
+时序异常检测&lt;br /&gt;
+红外图像融合&lt;br /&gt;
+脉冲神经网络&lt;br /&gt;
+深度网络防御&lt;br /&gt;
+使用 Timewise Latents 的人类轨迹预测&lt;/p&gt;
+</content>
         <updated>2023-01-19T16:00:00.000Z</updated>
     </entry>
     <entry>
