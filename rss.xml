@@ -64,30 +64,14 @@
 &lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分初步开始对应阅读和理解，绘制项目对应的结构图。&lt;/li&gt;
 &lt;li&gt;实验：实验开始。基本跑通代码。&lt;/li&gt;
 &lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</guid>
-            <title>关于课设</title>
-            <link>http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</link>
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;这是由 2020 级智能科学与技术专业的同学完成的课程设计实验课题，在宿勇老师的指导下，智能 2001 班和智能 2002 班所有同学分别组成各个小组完成不同的课题，搭建网站小组成员将各小组课题进度记录在此网站。&lt;/p&gt;
-&lt;h1 id=&#34;课程设计各小组实验课题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程设计各小组实验课题&#34;&gt;#&lt;/a&gt; 课程设计各小组实验课题&lt;/h1&gt;
-&lt;p&gt;异常检测&lt;br /&gt;
-去模糊&lt;br /&gt;
-搭建网站&lt;br /&gt;
-股票价格预测&lt;br /&gt;
-运动预测&lt;br /&gt;
-少样本识别&lt;br /&gt;
-对比学习&lt;br /&gt;
-基于强化学习光流去模糊&lt;br /&gt;
-光流去模糊&lt;br /&gt;
-人体姿态估计&lt;br /&gt;
-时序异常检测&lt;br /&gt;
-红外图像融合&lt;br /&gt;
-脉冲神经网络&lt;br /&gt;
-深度网络防御&lt;br /&gt;
-使用 Timewise Latents 的人类轨迹预测&lt;/p&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：林碧军&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习情况：小组成员学习 smoothnet 与 dmae 两个工程项目的论文和对应代码，基本掌握了大致框架，通过学习 MAE 来进一步学习 DMAE。&lt;/li&gt;
+&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分已经对应阅读和理解，能够掌握各代码大致的内容作用&lt;/li&gt;
+&lt;li&gt;实验：基本跑通代码 - smoothnet 已经跑通，dame 代码尚有报错，项目评估部分的代码还在看&lt;/li&gt;
+&lt;li&gt;下周计划：加强代码学习，了解模型架构，学习数据的处理与变换，掌握模型的输入输出。&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -142,6 +126,14 @@
 &lt;li&gt;论文：学习对论文中给到的代码进行了学习和注释，并对论文中给到的公式进行学习和使用，包括模糊水平的估计和去模糊等。&lt;/li&gt;
 &lt;li&gt;预计下周完成：学习优化问题的相关知识，了解 DataLoader 的使用。了解 MMPRNN 实现图片的重建，并学习论文中的公式和对代码进行注释&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：张瑞雪&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习了优化问题的相关知识，了解 Dataloader 的使用及 MMPRNN 实现图片的重建，并学习论文中的公式和对代码进行注释，跑代码。&lt;/li&gt;
+&lt;li&gt;论文：对论文中的相关代码进行了学习和注释，并对论文中的对应公式进行学习和使用，学习利用紧凑的网络来估计 MMP 使用 MMAM 进行集成，进一步学习损失函数及优化器。&lt;/li&gt;
+&lt;li&gt;预计下周完成：学习 MMP-RNN 进行视频去模糊，对论文进行整体、系统的学习，跑通代码。&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A1.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -188,6 +180,30 @@
 &lt;li&gt;调试代码：pycharm 运行出现问题，大家开始学习 colab，预计下周可以跑通代码&lt;/li&gt;
 &lt;li&gt;阅读论文：阅读与单幅图像去模糊相关的文献与资料，理清论文思路&lt;/li&gt;
 &lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</guid>
+            <title>关于课设</title>
+            <link>http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</link>
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这是由 2020 级智能科学与技术专业的同学完成的课程设计实验课题，在宿勇老师的指导下，智能 2001 班和智能 2002 班所有同学分别组成各个小组完成不同的课题，搭建网站小组成员将各小组课题进度记录在此网站。&lt;/p&gt;
+&lt;h1 id=&#34;课程设计各小组实验课题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程设计各小组实验课题&#34;&gt;#&lt;/a&gt; 课程设计各小组实验课题&lt;/h1&gt;
+&lt;p&gt;异常检测&lt;br /&gt;
+去模糊&lt;br /&gt;
+搭建网站&lt;br /&gt;
+股票价格预测&lt;br /&gt;
+运动预测&lt;br /&gt;
+少样本识别&lt;br /&gt;
+对比学习&lt;br /&gt;
+基于强化学习光流去模糊&lt;br /&gt;
+光流去模糊&lt;br /&gt;
+人体姿态估计&lt;br /&gt;
+时序异常检测&lt;br /&gt;
+红外图像融合&lt;br /&gt;
+脉冲神经网络&lt;br /&gt;
+深度网络防御&lt;br /&gt;
+使用 Timewise Latents 的人类轨迹预测&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -240,6 +256,12 @@
 &lt;ul&gt;
 &lt;li&gt;第四周仍然在调试代码，因为每个人的进度不齐，最低的已经完成了三分之一代码的跑通，下周还会继续进行代码的跑通&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：方子萌&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三个人代码全部跑通，还有三个人的代码没有全部完成&lt;/li&gt;
+&lt;li&gt;下一周预计全部成员的代码跑完，再去深入的组织对项目的理解&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -288,6 +310,18 @@
 &lt;li&gt;python 学习、pytorch 学习，将之前的剩余内容学完&lt;/li&gt;
 &lt;li&gt;对代码进行了进一步的解释，开始调试、跑代码，约完成了 70%&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：洪熠晖&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代码跑通（包括训练模型及模型评估）&lt;/li&gt;
+&lt;li&gt;阅读解析模板论文的摘要部分&lt;/li&gt;
+&lt;li&gt;进行代码部分更改调试（因 gpu 容量有限，batch_size 数量&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%911.mp4&#34; alt=&#34;无监督模型训练跑通&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%912.mp4&#34; alt=&#34;因gpu 导致的batch size数量小&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A03.jpg&#34; alt=&#34;因gpu 导致的batch size数量小&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%914.mp4&#34; alt=&#34;无监督训练模型做评估&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A05.jpg&#34; alt=&#34;得出结果与作者相符（以pcl v2展示&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -314,25 +348,36 @@
 &lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
 &lt;p&gt;汇报人：金显婷&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;学习并配置环境&lt;/li&gt;
-&lt;li&gt;开始阅读论文&lt;/li&gt;
+&lt;li&gt;学习并配置 colab 环境&lt;/li&gt;
+&lt;li&gt;学习 pytorch 基本知识，dateset，tensor board，transforms，torch vision&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
 &lt;p&gt;汇报人：金显婷&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;阅读完论文&lt;/li&gt;
+&lt;li&gt;学习 pytorch 基本知识，卷积层，损失函数和反向传播，优化层，最大池化，线性层&lt;/li&gt;
+&lt;li&gt;学习论文相关知识：孪生网络表示学习，多元高斯分布&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
 &lt;p&gt;汇报人：金显婷&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;学习代码作用&lt;/li&gt;
-&lt;li&gt;跑通代码&lt;/li&gt;
+&lt;li&gt;阅读完论文，绘制大致模型流程图  &lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB1.jpg&#34; alt=&#34;模型流程图&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
 &lt;p&gt;汇报人：金显婷&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;学习代码各个文件的作用&lt;/li&gt;
+&lt;li&gt;跑通代码&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB2.jpg&#34; alt=&#34;部分代码&#34; /&gt;  &lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB3.jpg&#34; alt=&#34;部分代码&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：金显婷&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;跑完代码&lt;/li&gt;
-&lt;li&gt;调试代码&lt;/li&gt;
+&lt;li&gt;对论文中的代码 model，loss 文件进行了学习和注释，并对论文中的对应公式进行学习和使用&lt;/li&gt;
+&lt;li&gt;写论文概述&lt;/li&gt;
+&lt;li&gt;下周注释 train，test 文件，继续学习代码&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -495,6 +540,13 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xb0ptVnhJdXNEU1dNWjN5eUthTVFTRmdpNjZ3a2FkZ20yL3ZpZXc/dXNwPXNoYXJpbmc=&#34;&gt;https://drive.google.com/file/d/1oJmVxIusDSWMZ3yyKaMQSFgi66wkadgm2/view?usp=sharing&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;logger：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTDZCVC1Ud3pjZk9xZHZpWGgtOXZUV2YwVndGOVJHVFMvdmlldz91c3A9c2hhcmluZw==&#34;&gt;https://drive.google.com/file/d/1L6BT-TwzcfOqdviXh-9vTWf0VwF9RGTS/view?usp=sharing&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：班成双&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;看作者讲解的论文视频，自行学习代码&lt;/li&gt;
+&lt;li&gt;初步整理代码框架&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E6%97%B6%E5%BA%8F%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B2.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -649,6 +701,15 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;li&gt;深入理解了论文模型，对论文模型图做注释，了解了 self-attention 基本框架，尝试理解 muti-head attention，看了神经网络相关基础知识。&lt;/li&gt;
 &lt;li&gt;了解了模型中 GRN 的功能，进行非线性变换；valuable selection 进行重要特征选择；以分位数预测作为输出结果。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：于瀛&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;仔细读每句代码，打印各种输入输出的结果。分析了各模块之间的关系，绘制了代码思维导图&lt;/li&gt;
+&lt;li&gt;对应模型源码和论文，观看了 transform 和 self-attention 相关视频，对模型图进行了注释&lt;/li&gt;
+&lt;li&gt;对 tft 模型的基本架构进行总结&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B1.jpg&#34; alt=&#34;test&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B2.jpg&#34; alt=&#34;test&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -794,6 +855,15 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;ul&gt;
 &lt;li&gt;学习 numpy panda 库&lt;br /&gt;
 （学习相关的 python 库，教程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95dWxpemkxMjMuZ2l0aHViLmlvL3R1dG9yaWFscy9kYXRhLW1hbmlwdWxhdGlvbi9ucC1wZC8lRUYlQkMlODk=&#34;&gt;https://yulizi123.github.io/tutorials/data-manipulation/np-pd/）&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘元伟&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;阅读论文实验部分&lt;/li&gt;
+&lt;li&gt;对应数据集处理&lt;/li&gt;
+&lt;li&gt;实验前的准备工作：dct 和 idct（离散余弦变换部分）&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B3%E2%80%941.jpg&#34; alt=&#34;Discrete Cosine Transform&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B4-1.jpg&#34; alt=&#34;Datasets and Metrics&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
