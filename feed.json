@@ -20,6 +20,14 @@
             ]
         },
         {
+            "id": "http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/",
+            "url": "http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/",
+            "title": "关于课设",
+            "date_published": "2023-01-19T16:00:00.000Z",
+            "content_html": "<p>这是由 2020 级智能科学与技术专业的同学完成的课程设计实验课题，在宿勇老师的指导下，智能 2001 班和智能 2002 班所有同学分别组成各个小组完成不同的课题，搭建网站小组成员将各小组课题进度记录在此网站。</p>\n<h1 id=\"课程设计各小组实验课题\"><a class=\"anchor\" href=\"#课程设计各小组实验课题\">#</a> 课程设计各小组实验课题</h1>\n<p>异常检测<br />\n去模糊<br />\n搭建网站<br />\n股票价格预测<br />\n运动预测<br />\n少样本识别<br />\n对比学习<br />\n基于强化学习光流去模糊<br />\n光流去模糊<br />\n人体姿态估计<br />\n时序异常检测<br />\n红外图像融合<br />\n脉冲神经网络<br />\n深度网络防御<br />\n使用 Timewise Latents 的人类轨迹预测</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://example.com/2023/01/20/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/",
             "url": "http://example.com/2023/01/20/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/",
             "title": "光流去模糊",
@@ -46,14 +54,6 @@
             ]
         },
         {
-            "id": "http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/",
-            "url": "http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/",
-            "title": "关于课设",
-            "date_published": "2023-01-19T16:00:00.000Z",
-            "content_html": "<p>这是由 2020 级智能科学与技术专业的同学完成的课程设计实验课题，在宿勇老师的指导下，智能 2001 班和智能 2002 班所有同学分别组成各个小组完成不同的课题，搭建网站小组成员将各小组课题进度记录在此网站。</p>\n<h1 id=\"课程设计各小组实验课题\"><a class=\"anchor\" href=\"#课程设计各小组实验课题\">#</a> 课程设计各小组实验课题</h1>\n<p>异常检测<br />\n去模糊<br />\n搭建网站<br />\n股票价格预测<br />\n运动预测<br />\n少样本识别<br />\n对比学习<br />\n基于强化学习光流去模糊<br />\n光流去模糊<br />\n人体姿态估计<br />\n时序异常检测<br />\n红外图像融合<br />\n脉冲神经网络<br />\n深度网络防御<br />\n使用 Timewise Latents 的人类轨迹预测</p>\n",
-            "tags": []
-        },
-        {
             "id": "http://example.com/2023/01/20/%E5%9F%BA%E4%BA%8E%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/",
             "url": "http://example.com/2023/01/20/%E5%9F%BA%E4%BA%8E%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/",
             "title": "基于强化学习的光流去模糊",
@@ -72,12 +72,25 @@
             "url": "http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/",
             "title": "对比学习",
             "date_published": "2023-01-19T16:00:00.000Z",
-            "content_html": "<h1 id=\"课程介绍\"><a class=\"anchor\" href=\"#课程介绍\">#</a> 课程介绍</h1>\n<p> 对比学习（ Contrastive Learning ）的思想最开始产生于 CV 领域，其主要的思路是，给定一个样本，对其进行数据增强，将增强的结果视为正例；然后，其他所有的样本视为负例。对比学习是一种自监督学习方法，用于在没有标签的情况下，通过让模型学习哪些数据点相似或不同来学习数据集的一般特征。</p>\n<h1 id=\"小组成员\"><a class=\"anchor\" href=\"#小组成员\">#</a> 小组成员</h1>\n<ul>\n<li>智能 2002 王子萱   2030330079</li>\n<li>智能 2002 王菲     2030330078</li>\n<li>智能 2002 芮小茹   2030330077</li>\n<li>智能 2002 魏婷     2030330080</li>\n<li>智能 2001 洪熠晖   2030330004</li>\n</ul>\n<h1 id=\"课题进度\"><a class=\"anchor\" href=\"#课题进度\">#</a> 课题进度</h1>\n<h2 id=\"第一周\"><a class=\"anchor\" href=\"#第一周\">#</a> 第一周</h2>\n<p>汇报人：王子萱</p>\n<ul>\n<li>开始阅读论文并解读</li>\n<li>具体的运行代码翻译（构建对象；模型定义；创建数据库，建造模型，导入模块；预训练模型，评估模型；测试模型及结果；生成训练数据；数据训练；训练 SVM 分类器）</li>\n</ul>\n<h2 id=\"第二周\"><a class=\"anchor\" href=\"#第二周\">#</a> 第二周</h2>\n<p>汇报人：芮小茹</p>\n<ul>\n<li>Python 基础知识学习</li>\n<li>继续阅读论文并进行解读</li>\n<li>进行 PCL 算法代码翻</li>\n</ul>\n<h2 id=\"第三周\"><a class=\"anchor\" href=\"#第三周\">#</a> 第三周</h2>\n<p>汇报人：魏婷</p>\n<ul>\n<li>python 学到字典</li>\n<li>pytorch 学到卷积</li>\n<li>理解论文</li>\n</ul>\n<h2 id=\"第四周\"><a class=\"anchor\" href=\"#第四周\">#</a> 第四周</h2>\n<p>汇报人：王菲</p>\n<ul>\n<li>python 学习、pytorch 学习，将之前的剩余内容学完</li>\n<li>对代码进行了进一步的解释，开始调试、跑代码，约完成了 70%</li>\n</ul>\n<h2 id=\"第五周\"><a class=\"anchor\" href=\"#第五周\">#</a> 第五周</h2>\n<p>汇报人：洪熠晖</p>\n<ul>\n<li>代码跑通（包括训练模型及模型评估）</li>\n<li>阅读解析模板论文的摘要部分</li>\n<li>进行代码部分更改调试（因 gpu 容量有限，batch_size 数量<br />\n<img data-src=\"/assets/%E8%A7%86%E9%A2%911.mp4\" alt=\"无监督模型训练跑通\" /><br />\n<img data-src=\"/assets/%E8%A7%86%E9%A2%912.mp4\" alt=\"因gpu 导致的batch size数量小\" /><br />\n<img data-src=\"/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A03.jpg\" alt=\"因gpu 导致的batch size数量小\" /><br />\n<img data-src=\"/assets/%E8%A7%86%E9%A2%914.mp4\" alt=\"无监督训练模型做评估\" /><br />\n<img data-src=\"/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A05.jpg\" alt=\"得出结果与作者相符（以pcl v2展示\" /></li>\n</ul>\n",
+            "content_html": "<h1 id=\"课程介绍\"><a class=\"anchor\" href=\"#课程介绍\">#</a> 课程介绍</h1>\n<p> 对比学习（ Contrastive Learning ）的思想最开始产生于 CV 领域，其主要的思路是，给定一个样本，对其进行数据增强，将增强的结果视为正例；然后，其他所有的样本视为负例。对比学习是一种自监督学习方法，用于在没有标签的情况下，通过让模型学习哪些数据点相似或不同来学习数据集的一般特征。</p>\n<h1 id=\"小组成员\"><a class=\"anchor\" href=\"#小组成员\">#</a> 小组成员</h1>\n<ul>\n<li>智能 2002 王子萱   2030330079</li>\n<li>智能 2002 王菲     2030330078</li>\n<li>智能 2002 芮小茹   2030330077</li>\n<li>智能 2002 魏婷     2030330080</li>\n<li>智能 2001 洪熠晖   2030330004</li>\n</ul>\n<h1 id=\"课题进度\"><a class=\"anchor\" href=\"#课题进度\">#</a> 课题进度</h1>\n<h2 id=\"第一周\"><a class=\"anchor\" href=\"#第一周\">#</a> 第一周</h2>\n<p>汇报人：王子萱</p>\n<ul>\n<li>开始阅读论文并解读</li>\n<li>具体的运行代码翻译（构建对象；模型定义；创建数据库，建造模型，导入模块；预训练模型，评估模型；测试模型及结果；生成训练数据；数据训练；训练 SVM 分类器）</li>\n</ul>\n<h2 id=\"第二周\"><a class=\"anchor\" href=\"#第二周\">#</a> 第二周</h2>\n<p>汇报人：芮小茹</p>\n<ul>\n<li>Python 基础知识学习</li>\n<li>继续阅读论文并进行解读</li>\n<li>进行 PCL 算法代码翻</li>\n</ul>\n<h2 id=\"第三周\"><a class=\"anchor\" href=\"#第三周\">#</a> 第三周</h2>\n<p>汇报人：魏婷</p>\n<ul>\n<li>python 学到字典</li>\n<li>pytorch 学到卷积</li>\n<li>理解论文</li>\n</ul>\n<h2 id=\"第四周\"><a class=\"anchor\" href=\"#第四周\">#</a> 第四周</h2>\n<p>汇报人：王菲</p>\n<ul>\n<li>python 学习、pytorch 学习，将之前的剩余内容学完</li>\n<li>对代码进行了进一步的解释，开始调试、跑代码，约完成了 70%</li>\n</ul>\n<h2 id=\"第五周\"><a class=\"anchor\" href=\"#第五周\">#</a> 第五周</h2>\n<p>汇报人：洪熠晖</p>\n<ul>\n<li>代码跑通（包括训练模型及模型评估）</li>\n<li>阅读解析模板论文的摘要部分</li>\n<li>进行代码部分更改调试（因 gpu 容量有限，batch_size 数量<br />\n ps：以下无法显示的为视频，点开对应文字即可播放<br />\n<img data-src=\"/assets/%E8%A7%86%E9%A2%911.mp4\" alt=\"无监督模型训练跑通\" /><br />\n<img data-src=\"/assets/%E8%A7%86%E9%A2%912.mp4\" alt=\"因gpu 导致的batch size数量小\" /><br />\n<img data-src=\"/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A03.jpg\" alt=\"因gpu 导致的batch size数量小\" /><br />\n<img data-src=\"/assets/%E8%A7%86%E9%A2%914.mp4\" alt=\"无监督训练模型做评估\" /><br />\n<img data-src=\"/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A05.jpg\" alt=\"得出结果与作者相符（以pcl v2展示\" /></li>\n</ul>\n",
             "tags": [
                 "5-8组",
                 "Python",
                 "PyTorch",
                 "无监督学习"
+            ]
+        },
+        {
+            "id": "http://example.com/2023/01/20/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/",
+            "url": "http://example.com/2023/01/20/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/",
+            "title": "搭建网站",
+            "date_published": "2023-01-19T16:00:00.000Z",
+            "content_html": "<h1 id=\"课题介绍\"><a class=\"anchor\" href=\"#课题介绍\">#</a> 课题介绍</h1>\n<p>该课题是利用 Hexo（基于 Node.js 的博客框架），生成静态网页，并将其部署到 GitHub 上，以生成网站链接。此网站将作为实验课网站记录各小组课题信息，包括课题介绍、小组成员、课题进度等其他课题相关内容，方便大家查看课程设计相关内容。</p>\n<h1 id=\"小组成员\"><a class=\"anchor\" href=\"#小组成员\">#</a> 小组成员</h1>\n<ul>\n<li>智能 2002 邹佳欣 2030330090</li>\n<li>智能 2002 葛昕 2030330067</li>\n<li>智能 2002 钱玮怡 2030330074</li>\n<li>智能 2002 秦萌 2030330075</li>\n<li>智能 2002 普燕子 2030330073</li>\n</ul>\n<h1 id=\"课题进度\"><a class=\"anchor\" href=\"#课题进度\">#</a> 课题进度</h1>\n<h2 id=\"第一周\"><a class=\"anchor\" href=\"#第一周\">#</a> 第一周</h2>\n<p>汇报人：邹佳欣</p>\n<ul>\n<li>安装所需工具，配置所需环境</li>\n<li>搭出网站基本框架</li>\n<li>学习相关代码<br />\n<img data-src=\"/assets/capture_20230118183056105.jpg\" alt=\"Alt text\" /></li>\n</ul>\n<h2 id=\"第二周\"><a class=\"anchor\" href=\"#第二周\">#</a> 第二周</h2>\n<p>汇报人：葛昕</p>\n<ul>\n<li>网站已经有基本雏形</li>\n<li>开始学习使用 markdown 语法对网站内容进行编译<br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%991.png\" alt=\"Alt text\" /><br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%992.png\" alt=\"Alt text\" /><br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%993.png\" alt=\"Alt text\" /></li>\n</ul>\n<h2 id=\"第三周\"><a class=\"anchor\" href=\"#第三周\">#</a> 第三周</h2>\n<p>汇报人：钱玮怡</p>\n<ul>\n<li>安装网站所需插件修改站点配置文件加入相关配置</li>\n<li>运用 markdown 语法开始分部分排版<br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%994.png\" alt=\"Alt text\" /><br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%995.png\" alt=\"Alt text\" /></li>\n</ul>\n<h2 id=\"第四周\"><a class=\"anchor\" href=\"#第四周\">#</a> 第四周</h2>\n<p>汇报人：秦萌</p>\n<ul>\n<li>安装网页插件</li>\n<li>开始进行网页排版</li>\n</ul>\n",
+            "tags": [
+                "1-4组",
+                "Hexo",
+                "Github",
+                "Markdown"
             ]
         },
         {
@@ -103,19 +116,6 @@
                 "1-4组",
                 "深度学习",
                 "异常检测"
-            ]
-        },
-        {
-            "id": "http://example.com/2023/01/20/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/",
-            "url": "http://example.com/2023/01/20/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/",
-            "title": "搭建网站",
-            "date_published": "2023-01-19T16:00:00.000Z",
-            "content_html": "<h1 id=\"课题介绍\"><a class=\"anchor\" href=\"#课题介绍\">#</a> 课题介绍</h1>\n<p>该课题是利用 Hexo（基于 Node.js 的博客框架），生成静态网页，并将其部署到 GitHub 上，以生成网站链接。此网站将作为实验课网站记录各小组课题信息，包括课题介绍、小组成员、课题进度等其他课题相关内容，方便大家查看课程设计相关内容。</p>\n<h1 id=\"小组成员\"><a class=\"anchor\" href=\"#小组成员\">#</a> 小组成员</h1>\n<ul>\n<li>智能 2002 邹佳欣 2030330090</li>\n<li>智能 2002 葛昕 2030330067</li>\n<li>智能 2002 钱玮怡 2030330074</li>\n<li>智能 2002 秦萌 2030330075</li>\n<li>智能 2002 普燕子 2030330073</li>\n</ul>\n<h1 id=\"课题进度\"><a class=\"anchor\" href=\"#课题进度\">#</a> 课题进度</h1>\n<h2 id=\"第一周\"><a class=\"anchor\" href=\"#第一周\">#</a> 第一周</h2>\n<p>汇报人：邹佳欣</p>\n<ul>\n<li>安装所需工具，配置所需环境</li>\n<li>搭出网站基本框架</li>\n<li>学习相关代码<br />\n<img data-src=\"/assets/capture_20230118183056105.jpg\" alt=\"Alt text\" /></li>\n</ul>\n<h2 id=\"第二周\"><a class=\"anchor\" href=\"#第二周\">#</a> 第二周</h2>\n<p>汇报人：葛昕</p>\n<ul>\n<li>网站已经有基本雏形</li>\n<li>开始学习使用 markdown 语法对网站内容进行编译<br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%991.png\" alt=\"Alt text\" /><br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%992.png\" alt=\"Alt text\" /><br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%993.png\" alt=\"Alt text\" /></li>\n</ul>\n<h2 id=\"第三周\"><a class=\"anchor\" href=\"#第三周\">#</a> 第三周</h2>\n<p>汇报人：钱玮怡</p>\n<ul>\n<li>安装网站所需插件修改站点配置文件加入相关配置</li>\n<li>运用 markdown 语法开始分部分排版<br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%994.png\" alt=\"Alt text\" /><br />\n<img data-src=\"/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%995.png\" alt=\"Alt text\" /></li>\n</ul>\n<h2 id=\"第四周\"><a class=\"anchor\" href=\"#第四周\">#</a> 第四周</h2>\n<p>汇报人：秦萌</p>\n<ul>\n<li>安装网页插件</li>\n<li>开始进行网页排版</li>\n</ul>\n",
-            "tags": [
-                "1-4组",
-                "Hexo",
-                "Github",
-                "Markdown"
             ]
         },
         {
@@ -158,19 +158,6 @@
             ]
         },
         {
-            "id": "http://example.com/2023/01/20/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B/",
-            "url": "http://example.com/2023/01/20/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B/",
-            "title": "股票价格预测",
-            "date_published": "2023-01-19T16:00:00.000Z",
-            "content_html": "<h1 id=\"课程介绍\"><a class=\"anchor\" href=\"#课程介绍\">#</a> 课程介绍</h1>\n<p>近年来，股票预测还处于一个很热门的阶段，因为股票市场的波动十分巨大，随时可能因为一些新的政策或者其他原因，进行大幅度的波动，导致自然人股民很难对股票进行投资盈利。因此本文想利用现有的模型与算法，对股票价格进行预测，从而使自然人股民可以自己对股票进行预测。理论上，股票价格是可以预测的，但是影响股票价格的因素有很多，而且目前为止，它们对股票的影响还不能清晰定义。这是因为股票预测是高度非线性的，这就要预测模型要能够处理非线性问题，并且，股票具有时间序列的特性，因此适合用循环神经网络，对股票进行预测。虽然循环神经网络（RNN），允许信息的持久化，然而，一般的 RNN 模型对具备长记忆性的时间序列数据刻画能力较弱，在时间序列过长的时候，因为存在梯度消散和梯度爆炸现象 RNN 训练变得非常困难。Hochreiter 和 Schmidhuber 提出的长短期记忆（ Long Short-Term Memory，LSTM）模型在 RNN 结构的基础上进行了改造，从而解决了 RNN 模型无法刻画时间序列长记忆性的问题。</p>\n<h1 id=\"小组成员\"><a class=\"anchor\" href=\"#小组成员\">#</a> 小组成员</h1>\n<ul>\n<li>智能 2001 于瀛     2030330041</li>\n<li>智能 2001 高冰洋   2030330020</li>\n<li>智能 2001 于津柳   2030330039</li>\n<li>智能 2001 于凯桦   2030330040</li>\n<li>智能 2001 韦亚妮   2030330036</li>\n<li>智能 2001 温宇婷   2030330038</li>\n</ul>\n<h1 id=\"课题进度\"><a class=\"anchor\" href=\"#课题进度\">#</a> 课题进度</h1>\n<h2 id=\"第一周\"><a class=\"anchor\" href=\"#第一周\">#</a> 第一周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>课题由去模糊换成股票价格预测，调试环境，下载了需要的 pytorch_lightning 和 pytorch forecasting 功能包，尝试跑代码</li>\n<li>看 pytorch 入门视频<br />\n【PyTorch 深度学习快速入门教程（绝对通俗易懂！）【小土堆】】<br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMWhFNDExdDdSTi8/c2hhcmVfc291cmNlPWNvcHlfd2ViJmFtcDt2ZF9zb3VyY2U9OTMyY2U4MjVjZmQ0NDQ3OTIwNTNiMzRkZWU1ODZkMmYlRUYlQkMlOEM=\">https://www.bilibili.com/video/BV1hE411t7RN/?share_source=copy_web&amp;vd_source=932ce825cfd444792053b34dee586d2f，</span></li>\n<li>了解了模型训练基本代码，了解基本流程，<br />\n比如：数据集，tensorboard</li>\n</ul>\n<h2 id=\"第二周\"><a class=\"anchor\" href=\"#第二周\">#</a> 第二周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>大体看了一下预测股票的模型方法，大概看了论文，将代码各部分功能大概看了一下</li>\n<li>看了 pytorch 官方教程，补充了一下 python 基础</li>\n</ul>\n<h2 id=\"第三周\"><a class=\"anchor\" href=\"#第三周\">#</a> 第三周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>代码看完，了解了模型各部分的基本架构，了解了 transform</li>\n<li>补充了深度学习的相关基础知识，补充了高数，矩阵乘法相关知识；学习了专业名词的含义，比如：label，target 等</li>\n<li>了解了 softmax 功能、context vector</li>\n</ul>\n<h2 id=\"第四周\"><a class=\"anchor\" href=\"#第四周\">#</a> 第四周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>调试 jupyter notebook 运行环境，代码跑通</li>\n<li>深入理解了论文模型，对论文模型图做注释，了解了 self-attention 基本框架，尝试理解 muti-head attention，看了神经网络相关基础知识。</li>\n<li>了解了模型中 GRN 的功能，进行非线性变换；valuable selection 进行重要特征选择；以分位数预测作为输出结果。</li>\n</ul>\n<h2 id=\"第五周\"><a class=\"anchor\" href=\"#第五周\">#</a> 第五周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>仔细读每句代码，打印各种输入输出的结果。分析了各模块之间的关系，绘制了代码思维导图</li>\n<li>对应模型源码和论文，观看了 transform 和 self-attention 相关视频，对模型图进行了注释</li>\n<li>对 tft 模型的基本架构进行总结<br />\n<img data-src=\"/assets/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B1.jpg\" alt=\"test\" /><br />\n<img data-src=\"/assets/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B2.jpg\" alt=\"test\" /></li>\n</ul>\n",
-            "tags": [
-                "1-4组",
-                "PyTorch",
-                "RNN",
-                "LSTM"
-            ]
-        },
-        {
             "id": "http://example.com/2023/01/20/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/",
             "url": "http://example.com/2023/01/20/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/",
             "title": "脉冲神经网络",
@@ -181,6 +168,19 @@
                 "Python",
                 "PyTorch",
                 "SNN"
+            ]
+        },
+        {
+            "id": "http://example.com/2023/01/20/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B/",
+            "url": "http://example.com/2023/01/20/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B/",
+            "title": "股票价格预测",
+            "date_published": "2023-01-19T16:00:00.000Z",
+            "content_html": "<h1 id=\"课程介绍\"><a class=\"anchor\" href=\"#课程介绍\">#</a> 课程介绍</h1>\n<p>近年来，股票预测还处于一个很热门的阶段，因为股票市场的波动十分巨大，随时可能因为一些新的政策或者其他原因，进行大幅度的波动，导致自然人股民很难对股票进行投资盈利。因此本文想利用现有的模型与算法，对股票价格进行预测，从而使自然人股民可以自己对股票进行预测。理论上，股票价格是可以预测的，但是影响股票价格的因素有很多，而且目前为止，它们对股票的影响还不能清晰定义。这是因为股票预测是高度非线性的，这就要预测模型要能够处理非线性问题，并且，股票具有时间序列的特性，因此适合用循环神经网络，对股票进行预测。虽然循环神经网络（RNN），允许信息的持久化，然而，一般的 RNN 模型对具备长记忆性的时间序列数据刻画能力较弱，在时间序列过长的时候，因为存在梯度消散和梯度爆炸现象 RNN 训练变得非常困难。Hochreiter 和 Schmidhuber 提出的长短期记忆（ Long Short-Term Memory，LSTM）模型在 RNN 结构的基础上进行了改造，从而解决了 RNN 模型无法刻画时间序列长记忆性的问题。</p>\n<h1 id=\"小组成员\"><a class=\"anchor\" href=\"#小组成员\">#</a> 小组成员</h1>\n<ul>\n<li>智能 2001 于瀛     2030330041</li>\n<li>智能 2001 高冰洋   2030330020</li>\n<li>智能 2001 于津柳   2030330039</li>\n<li>智能 2001 于凯桦   2030330040</li>\n<li>智能 2001 韦亚妮   2030330036</li>\n<li>智能 2001 温宇婷   2030330038</li>\n</ul>\n<h1 id=\"课题进度\"><a class=\"anchor\" href=\"#课题进度\">#</a> 课题进度</h1>\n<h2 id=\"第一周\"><a class=\"anchor\" href=\"#第一周\">#</a> 第一周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>课题由去模糊换成股票价格预测，调试环境，下载了需要的 pytorch_lightning 和 pytorch forecasting 功能包，尝试跑代码</li>\n<li>看 pytorch 入门视频<br />\n【PyTorch 深度学习快速入门教程（绝对通俗易懂！）【小土堆】】<br />\n<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMWhFNDExdDdSTi8/c2hhcmVfc291cmNlPWNvcHlfd2ViJmFtcDt2ZF9zb3VyY2U9OTMyY2U4MjVjZmQ0NDQ3OTIwNTNiMzRkZWU1ODZkMmYlRUYlQkMlOEM=\">https://www.bilibili.com/video/BV1hE411t7RN/?share_source=copy_web&amp;vd_source=932ce825cfd444792053b34dee586d2f，</span></li>\n<li>了解了模型训练基本代码，了解基本流程，<br />\n比如：数据集，tensorboard</li>\n</ul>\n<h2 id=\"第二周\"><a class=\"anchor\" href=\"#第二周\">#</a> 第二周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>大体看了一下预测股票的模型方法，大概看了论文，将代码各部分功能大概看了一下</li>\n<li>看了 pytorch 官方教程，补充了一下 python 基础</li>\n</ul>\n<h2 id=\"第三周\"><a class=\"anchor\" href=\"#第三周\">#</a> 第三周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>代码看完，了解了模型各部分的基本架构，了解了 transform</li>\n<li>补充了深度学习的相关基础知识，补充了高数，矩阵乘法相关知识；学习了专业名词的含义，比如：label，target 等</li>\n<li>了解了 softmax 功能、context vector</li>\n</ul>\n<h2 id=\"第四周\"><a class=\"anchor\" href=\"#第四周\">#</a> 第四周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>调试 jupyter notebook 运行环境，代码跑通</li>\n<li>深入理解了论文模型，对论文模型图做注释，了解了 self-attention 基本框架，尝试理解 muti-head attention，看了神经网络相关基础知识。</li>\n<li>了解了模型中 GRN 的功能，进行非线性变换；valuable selection 进行重要特征选择；以分位数预测作为输出结果。</li>\n</ul>\n<h2 id=\"第五周\"><a class=\"anchor\" href=\"#第五周\">#</a> 第五周</h2>\n<p>汇报人：于瀛</p>\n<ul>\n<li>仔细读每句代码，打印各种输入输出的结果。分析了各模块之间的关系，绘制了代码思维导图</li>\n<li>对应模型源码和论文，观看了 transform 和 self-attention 相关视频，对模型图进行了注释</li>\n<li>对 tft 模型的基本架构进行总结<br />\n<img data-src=\"/assets/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B1.jpg\" alt=\"test\" /><br />\n<img data-src=\"/assets/%E8%82%A1%E7%A5%A8%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B2.jpg\" alt=\"test\" /></li>\n</ul>\n",
+            "tags": [
+                "1-4组",
+                "PyTorch",
+                "RNN",
+                "LSTM"
             ]
         },
         {
