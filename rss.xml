@@ -75,30 +75,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</guid>
-            <title>关于课设</title>
-            <link>http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</link>
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;这是由 2020 级智能科学与技术专业的同学完成的课程设计实验课题，在宿勇老师的指导下，智能 2001 班和智能 2002 班所有同学分别组成各个小组完成不同的课题，搭建网站小组成员将各小组课题进度记录在此网站。&lt;/p&gt;
-&lt;h1 id=&#34;课程设计各小组实验课题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程设计各小组实验课题&#34;&gt;#&lt;/a&gt; 课程设计各小组实验课题&lt;/h1&gt;
-&lt;p&gt;异常检测&lt;br /&gt;
-去模糊&lt;br /&gt;
-搭建网站&lt;br /&gt;
-股票价格预测&lt;br /&gt;
-运动预测&lt;br /&gt;
-少样本识别&lt;br /&gt;
-对比学习&lt;br /&gt;
-基于强化学习光流去模糊&lt;br /&gt;
-光流去模糊&lt;br /&gt;
-人体姿态估计&lt;br /&gt;
-时序异常检测&lt;br /&gt;
-红外图像融合&lt;br /&gt;
-脉冲神经网络&lt;br /&gt;
-深度网络防御&lt;br /&gt;
-使用 Timewise Latents 的人类轨迹预测&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://example.com/2023/01/20/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/</guid>
             <title>光流去模糊</title>
             <link>http://example.com/2023/01/20/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/</link>
@@ -161,6 +137,30 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</guid>
+            <title>关于课设</title>
+            <link>http://example.com/2023/01/20/%E5%85%B3%E4%BA%8E%E8%AF%BE%E8%AE%BE/</link>
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这是由 2020 级智能科学与技术专业的同学完成的课程设计实验课题，在宿勇老师的指导下，智能 2001 班和智能 2002 班所有同学分别组成各个小组完成不同的课题，搭建网站小组成员将各小组课题进度记录在此网站。&lt;/p&gt;
+&lt;h1 id=&#34;课程设计各小组实验课题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程设计各小组实验课题&#34;&gt;#&lt;/a&gt; 课程设计各小组实验课题&lt;/h1&gt;
+&lt;p&gt;异常检测&lt;br /&gt;
+去模糊&lt;br /&gt;
+搭建网站&lt;br /&gt;
+股票价格预测&lt;br /&gt;
+运动预测&lt;br /&gt;
+少样本识别&lt;br /&gt;
+对比学习&lt;br /&gt;
+基于强化学习光流去模糊&lt;br /&gt;
+光流去模糊&lt;br /&gt;
+人体姿态估计&lt;br /&gt;
+时序异常检测&lt;br /&gt;
+红外图像融合&lt;br /&gt;
+脉冲神经网络&lt;br /&gt;
+深度网络防御&lt;br /&gt;
+使用 Timewise Latents 的人类轨迹预测&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">http://example.com/2023/01/20/%E5%8E%BB%E6%A8%A1%E7%B3%8A/</guid>
             <title>去模糊</title>
             <link>http://example.com/2023/01/20/%E5%8E%BB%E6%A8%A1%E7%B3%8A/</link>
@@ -203,6 +203,13 @@
 &lt;ul&gt;
 &lt;li&gt;调试代码：pycharm 运行出现问题，大家开始学习 colab，预计下周可以跑通代码&lt;/li&gt;
 &lt;li&gt;阅读论文：阅读与单幅图像去模糊相关的文献与资料，理清论文思路&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：张子怡&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;成功调通代码，基本理解各个模块的作用&lt;/li&gt;
+&lt;li&gt;预计下周融入老师给的代码，进行模型升级&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%8E%BB%E6%A8%A1%E7%B3%8A2.jpg&#34; alt=&#34;跑通代码&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -326,59 +333,6 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/</guid>
-            <title>搭建网站</title>
-            <link>http://example.com/2023/01/20/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/</link>
-            <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
-            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
-            <category term="Github" scheme="http://example.com/tags/Github/" />
-            <category term="Markdown" scheme="http://example.com/tags/Markdown/" />
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
-&lt;p&gt;该课题是利用 Hexo（基于 Node.js 的博客框架），生成静态网页，并将其部署到 GitHub 上，以生成网站链接。此网站将作为实验课网站记录各小组课题信息，包括课题介绍、小组成员、课题进度等其他课题相关内容，方便大家查看课程设计相关内容。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;智能 2002 邹佳欣 2030330090&lt;/li&gt;
-&lt;li&gt;智能 2002 葛昕 2030330067&lt;/li&gt;
-&lt;li&gt;智能 2002 钱玮怡 2030330074&lt;/li&gt;
-&lt;li&gt;智能 2002 秦萌 2030330075&lt;/li&gt;
-&lt;li&gt;智能 2002 普燕子 2030330073&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：邹佳欣&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;安装所需工具，配置所需环境&lt;/li&gt;
-&lt;li&gt;搭出网站基本框架&lt;/li&gt;
-&lt;li&gt;学习相关代码&lt;br /&gt;
-&lt;img data-src=&#34;/assets/capture_20230118183056105.jpg&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：葛昕&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;网站已经有基本雏形&lt;/li&gt;
-&lt;li&gt;开始学习使用 markdown 语法对网站内容进行编译&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%991.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%992.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%993.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：钱玮怡&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;安装网站所需插件修改站点配置文件加入相关配置&lt;/li&gt;
-&lt;li&gt;运用 markdown 语法开始分部分排版&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%994.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%995.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：秦萌&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;安装网页插件&lt;/li&gt;
-&lt;li&gt;开始进行网页排版&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://example.com/2023/01/20/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB/</guid>
             <title>少样本识别</title>
             <link>http://example.com/2023/01/20/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB/</link>
@@ -485,6 +439,73 @@
 &lt;li&gt;处理数据集&lt;/li&gt;
 &lt;li&gt;组员学习完 pytorch 视频&lt;/li&gt;
 &lt;li&gt;环境配置已成功&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：李若婉&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;已经跑通代码&lt;/li&gt;
+&lt;li&gt;下周计划理解论文，读论文&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B1.jpg&#34; alt=&#34;跑通代码&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/</guid>
+            <title>搭建网站</title>
+            <link>http://example.com/2023/01/20/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/</link>
+            <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
+            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
+            <category term="Github" scheme="http://example.com/tags/Github/" />
+            <category term="Markdown" scheme="http://example.com/tags/Markdown/" />
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
+&lt;p&gt;该课题是利用 Hexo（基于 Node.js 的博客框架），生成静态网页，并将其部署到 GitHub 上，以生成网站链接。此网站将作为实验课网站记录各小组课题信息，包括课题介绍、小组成员、课题进度等其他课题相关内容，方便大家查看课程设计相关内容。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2002 邹佳欣 2030330090&lt;/li&gt;
+&lt;li&gt;智能 2002 葛昕 2030330067&lt;/li&gt;
+&lt;li&gt;智能 2002 钱玮怡 2030330074&lt;/li&gt;
+&lt;li&gt;智能 2002 秦萌 2030330075&lt;/li&gt;
+&lt;li&gt;智能 2002 普燕子 2030330073&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：邹佳欣&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;安装所需工具，配置所需环境&lt;/li&gt;
+&lt;li&gt;搭出网站基本框架&lt;/li&gt;
+&lt;li&gt;学习相关代码&lt;br /&gt;
+&lt;img data-src=&#34;/assets/capture_20230118183056105.jpg&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：葛昕&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网站已经有基本雏形&lt;/li&gt;
+&lt;li&gt;开始学习使用 markdown 语法对网站内容进行编译&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%991.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%992.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%993.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：钱玮怡&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;安装网站所需插件修改站点配置文件加入相关配置&lt;/li&gt;
+&lt;li&gt;运用 markdown 语法开始分部分排版&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%994.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%995.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：秦萌&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;安装网页插件&lt;/li&gt;
+&lt;li&gt;开始进行网页排版&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：普燕子&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;按照上周统一好的模板修改每个人负责的代码，然后记录上周的汇报情况&lt;/li&gt;
+&lt;li&gt;完善代码添加好部分笔记图片并将完成的代码上传至网站&lt;/li&gt;
+&lt;li&gt;开始阅读上周给的论文&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -595,6 +616,12 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;ul&gt;
 &lt;li&gt;继续跑代码&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：张广&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代码基本完成&lt;/li&gt;
+&lt;li&gt;训练函数部分还存在问题&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -649,53 +676,16 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;li&gt;学习并了解基于 CNN 的 VGG 神经网络&lt;br /&gt;
 &lt;img data-src=&#34;/assets/%E7%BA%A2%E5%A4%96%E5%9B%BE%E5%83%8F%E8%9E%8D%E5%90%88.png&#34; alt=&#34;图片&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</guid>
-            <title>脉冲神经网络</title>
-            <link>http://example.com/2023/01/20/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
-            <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
-            <category term="Python" scheme="http://example.com/tags/Python/" />
-            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
-            <category term="SNN" scheme="http://example.com/tags/SNN/" />
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
-&lt;p&gt; 脉冲神经网络（Spiking Neural Network,SNN）脉冲神经网络是源于生物启发的新一代人工神经网络模型，属于深度学习的子集，且具有较强的生物基础支撑，包含具有时序动力学特性的神经元节点、稳态 - 可塑性平衡的突触结构、功能特异性的网络环路等，高度借鉴了生物启发的局部非监督 (如脉冲时序依赖可塑性、短时突触可塑性、局部稳态调节等)、全局弱监督 (如多巴胺奖赏学习、基于能量的函数优化等) 的生物优化方法，因此具有强大的时空信息表征、异步事件信息处理、网络自组织学习等能力。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：张梓聪&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;智能 2001 刘洋   2030330031&lt;/li&gt;
-&lt;li&gt;智能 2001 陈晓妍 2030330019&lt;/li&gt;
-&lt;li&gt;智能 2001 高洁   2030330021&lt;/li&gt;
-&lt;li&gt;智能 2001 高云晴 2030330022&lt;/li&gt;
-&lt;li&gt;智能 2001 王雅迪 2030330035&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：刘洋&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学习 B 站 pytorch 入门教程视频 1-10&lt;/li&gt;
-&lt;li&gt;阅读论文&lt;/li&gt;
-&lt;li&gt;了解 SNN 相关知识&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：刘洋&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学习 B 站 pyorch 入门教程视频 11-15&lt;/li&gt;
-&lt;li&gt;继续论文研读&lt;/li&gt;
-&lt;li&gt;初看代码&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：高云晴&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;继续学习 SNN 知识点&lt;/li&gt;
-&lt;li&gt;配置环境&lt;/li&gt;
-&lt;li&gt;开始跑代码以及调试代码&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：高洁&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;开始跑代码&lt;/li&gt;
+&lt;li&gt;学习 python pytorch 网课&lt;/li&gt;
+&lt;li&gt;完成代码 标注&lt;/li&gt;
+&lt;li&gt;结合论文对实验步骤进行研读&lt;/li&gt;
+&lt;li&gt;实现图像融合方法一&lt;/li&gt;
+&lt;li&gt;研读方法二&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E7%BA%A2%E5%A4%96%E5%9B%BE%E5%83%8F%E8%9E%8D%E5%90%88(%E7%AC%AC%E4%BA%94%E5%91%A81).jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E7%BA%A2%E5%A4%96%E5%9B%BE%E5%83%8F%E8%9E%8D%E5%90%88(%E7%AC%AC%E4%BA%94%E5%91%A82).jpg&#34; alt=&#34;图片&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -807,6 +797,73 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;li&gt;调试部分代码&lt;/li&gt;
 &lt;li&gt;研读论文模板&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘政&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在学习基本知识的基础上去尝试着跑了一些代码&lt;/li&gt;
+&lt;li&gt;完成了对 hotel 和 eth 两个数据集的 train 和 test  &lt;br /&gt;
+&lt;img data-src=&#34;/assets/Hotel%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84train(1).jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/Hotel%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84train(2).jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/Hotel%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84test.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/Eth%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84train(1).jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/Eth%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84train(2).jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/Eth%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84test.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</guid>
+            <title>脉冲神经网络</title>
+            <link>http://example.com/2023/01/20/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
+            <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
+            <category term="Python" scheme="http://example.com/tags/Python/" />
+            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
+            <category term="SNN" scheme="http://example.com/tags/SNN/" />
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
+&lt;p&gt; 脉冲神经网络（Spiking Neural Network,SNN）脉冲神经网络是源于生物启发的新一代人工神经网络模型，属于深度学习的子集，且具有较强的生物基础支撑，包含具有时序动力学特性的神经元节点、稳态 - 可塑性平衡的突触结构、功能特异性的网络环路等，高度借鉴了生物启发的局部非监督 (如脉冲时序依赖可塑性、短时突触可塑性、局部稳态调节等)、全局弱监督 (如多巴胺奖赏学习、基于能量的函数优化等) 的生物优化方法，因此具有强大的时空信息表征、异步事件信息处理、网络自组织学习等能力。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2001 刘洋   2030330031&lt;/li&gt;
+&lt;li&gt;智能 2001 陈晓妍 2030330019&lt;/li&gt;
+&lt;li&gt;智能 2001 高洁   2030330021&lt;/li&gt;
+&lt;li&gt;智能 2001 高云晴 2030330022&lt;/li&gt;
+&lt;li&gt;智能 2001 王雅迪 2030330035&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘洋&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习 B 站 pytorch 入门教程视频 1-10&lt;/li&gt;
+&lt;li&gt;阅读论文&lt;/li&gt;
+&lt;li&gt;了解 SNN 相关知识&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘洋&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习 B 站 pyorch 入门教程视频 11-15&lt;/li&gt;
+&lt;li&gt;继续论文研读&lt;/li&gt;
+&lt;li&gt;初看代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：高云晴&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;继续学习 SNN 知识点&lt;/li&gt;
+&lt;li&gt;配置环境&lt;/li&gt;
+&lt;li&gt;开始跑代码以及调试代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：高洁&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开始跑代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：陈晓妍&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代码全部跑通&lt;/li&gt;
+&lt;li&gt;研读论文&lt;/li&gt;
+&lt;li&gt;学习 SNN 相关知识&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -863,7 +920,7 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;li&gt;阅读论文实验部分&lt;/li&gt;
 &lt;li&gt;对应数据集处理&lt;/li&gt;
 &lt;li&gt;实验前的准备工作：dct 和 idct（离散余弦变换部分）&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B3%E2%80%941.jpg&#34; alt=&#34;Discrete Cosine Transform&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B3-1.jpg&#34; alt=&#34;Discrete Cosine Transform&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B4-1.jpg&#34; alt=&#34;Datasets and Metrics&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
