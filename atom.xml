@@ -256,6 +256,93 @@
         <updated>2023-01-19T16:00:00.000Z</updated>
     </entry>
     <entry>
+        <id>http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/</id>
+        <title>对比学习</title>
+        <link rel="alternate" href="http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/"/>
+        <content type="html">&lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
+&lt;p&gt; 对比学习（ Contrastive Learning ）的思想最开始产生于 CV 领域，其主要的思路是，给定一个样本，对其进行数据增强，将增强的结果视为正例；然后，其他所有的样本视为负例。对比学习是一种自监督学习方法，用于在没有标签的情况下，通过让模型学习哪些数据点相似或不同来学习数据集的一般特征。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2002 王子萱   2030330079&lt;/li&gt;
+&lt;li&gt;智能 2002 王菲     2030330078&lt;/li&gt;
+&lt;li&gt;智能 2002 芮小茹   2030330077&lt;/li&gt;
+&lt;li&gt;智能 2002 魏婷     2030330080&lt;/li&gt;
+&lt;li&gt;智能 2001 洪熠晖   2030330004&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：王子萱&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开始阅读论文并解读&lt;/li&gt;
+&lt;li&gt;具体的运行代码翻译（构建对象；模型定义；创建数据库，建造模型，导入模块；预训练模型，评估模型；测试模型及结果；生成训练数据；数据训练；训练 SVM 分类器）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：芮小茹&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python 基础知识学习&lt;/li&gt;
+&lt;li&gt;继续阅读论文并进行解读&lt;/li&gt;
+&lt;li&gt;进行 PCL 算法代码翻&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：魏婷&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;python 学到字典&lt;/li&gt;
+&lt;li&gt;pytorch 学到卷积&lt;/li&gt;
+&lt;li&gt;理解论文&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：王菲&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;python 学习、pytorch 学习，将之前的剩余内容学完&lt;/li&gt;
+&lt;li&gt;对代码进行了进一步的解释，开始调试、跑代码，约完成了 70%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：洪熠晖&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;代码跑通（包括训练模型及模型评估）&lt;/li&gt;
+&lt;li&gt;阅读解析模板论文的摘要部分&lt;/li&gt;
+&lt;li&gt;进行代码部分更改调试（因 gpu 容量有限，batch_size 数量&lt;br /&gt;
+ ps：以下无法显示的为视频，点开对应文字即可播放&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%911.mp4&#34; alt=&#34;无监督模型训练跑通&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%912.mp4&#34; alt=&#34;因gpu 导致的batch size数量小&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A03.jpg&#34; alt=&#34;因gpu 导致的batch size数量小&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%914.mp4&#34; alt=&#34;无监督训练模型做评估&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A05.jpg&#34; alt=&#34;得出结果与作者相符（以pcl v2展示&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第六周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六周&#34;&gt;#&lt;/a&gt; 第六周&lt;/h2&gt;
+&lt;p&gt;汇报人：王子萱&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;模型学习&lt;br /&gt;
+  学习步骤展示：&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A061.jpg&#34; alt=&#34;学习步骤&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A062.jpg&#34; alt=&#34;学习步骤&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A063.jpg&#34; alt=&#34;学习步骤&#34; /&gt;&lt;br /&gt;
+聚类对比模型 PCL 模型学习过程&lt;br /&gt;
+  模型结构&lt;br /&gt;
+  &lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A064.jpg&#34; alt=&#34;模型结构&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;论文模板学习&lt;br /&gt;
+  学习成果&lt;br /&gt;
+  文章结构整理&lt;br /&gt;
+   &lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A065.jpg&#34; alt=&#34;学习成果&#34; /&gt;&lt;br /&gt;
+   &lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A066.jpg&#34; alt=&#34;学习成果&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;p&gt;汇报人：王子萱&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对论文 MoCo 的学习&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A071.jpg&#34; alt=&#34;MoCo学习&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;优化论文代码的新想法：&lt;br /&gt;
+  以论文代码优化为目的进行小组会议&lt;br /&gt;
+  PCL 相对于 MoCo 的优化在于（实验结果 PCL 精度比 MoCo 高）&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="5-8组" scheme="http://example.com/categories/fivetoeight/" />
+        <category term="Python" scheme="http://example.com/tags/Python/" />
+        <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
+        <category term="无监督学习" scheme="http://example.com/tags/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/" />
+        <updated>2023-01-19T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>http://example.com/2023/01/20/%E5%9F%BA%E4%BA%8E%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/</id>
         <title>基于强化学习的光流去模糊</title>
         <link rel="alternate" href="http://example.com/2023/01/20/%E5%9F%BA%E4%BA%8E%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/"/>
@@ -330,84 +417,6 @@
         <updated>2023-01-19T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/</id>
-        <title>对比学习</title>
-        <link rel="alternate" href="http://example.com/2023/01/20/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/"/>
-        <content type="html">&lt;h1 id=&#34;课程介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程介绍&#34;&gt;#&lt;/a&gt; 课程介绍&lt;/h1&gt;
-&lt;p&gt; 对比学习（ Contrastive Learning ）的思想最开始产生于 CV 领域，其主要的思路是，给定一个样本，对其进行数据增强，将增强的结果视为正例；然后，其他所有的样本视为负例。对比学习是一种自监督学习方法，用于在没有标签的情况下，通过让模型学习哪些数据点相似或不同来学习数据集的一般特征。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;智能 2002 王子萱   2030330079&lt;/li&gt;
-&lt;li&gt;智能 2002 王菲     2030330078&lt;/li&gt;
-&lt;li&gt;智能 2002 芮小茹   2030330077&lt;/li&gt;
-&lt;li&gt;智能 2002 魏婷     2030330080&lt;/li&gt;
-&lt;li&gt;智能 2001 洪熠晖   2030330004&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：王子萱&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;开始阅读论文并解读&lt;/li&gt;
-&lt;li&gt;具体的运行代码翻译（构建对象；模型定义；创建数据库，建造模型，导入模块；预训练模型，评估模型；测试模型及结果；生成训练数据；数据训练；训练 SVM 分类器）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：芮小茹&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Python 基础知识学习&lt;/li&gt;
-&lt;li&gt;继续阅读论文并进行解读&lt;/li&gt;
-&lt;li&gt;进行 PCL 算法代码翻&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：魏婷&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;python 学到字典&lt;/li&gt;
-&lt;li&gt;pytorch 学到卷积&lt;/li&gt;
-&lt;li&gt;理解论文&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：王菲&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;python 学习、pytorch 学习，将之前的剩余内容学完&lt;/li&gt;
-&lt;li&gt;对代码进行了进一步的解释，开始调试、跑代码，约完成了 70%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
-&lt;p&gt;汇报人：洪熠晖&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;代码跑通（包括训练模型及模型评估）&lt;/li&gt;
-&lt;li&gt;阅读解析模板论文的摘要部分&lt;/li&gt;
-&lt;li&gt;进行代码部分更改调试（因 gpu 容量有限，batch_size 数量&lt;br /&gt;
- ps：以下无法显示的为视频，点开对应文字即可播放&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%911.mp4&#34; alt=&#34;无监督模型训练跑通&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%912.mp4&#34; alt=&#34;因gpu 导致的batch size数量小&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A03.jpg&#34; alt=&#34;因gpu 导致的batch size数量小&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E8%A7%86%E9%A2%914.mp4&#34; alt=&#34;无监督训练模型做评估&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A05.jpg&#34; alt=&#34;得出结果与作者相符（以pcl v2展示&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第六周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六周&#34;&gt;#&lt;/a&gt; 第六周&lt;/h2&gt;
-&lt;p&gt;汇报人：王子萱&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;模型学习&lt;br /&gt;
-  学习步骤展示：&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A061.jpg&#34; alt=&#34;学习步骤&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A062.jpg&#34; alt=&#34;学习步骤&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A063.jpg&#34; alt=&#34;学习步骤&#34; /&gt;&lt;br /&gt;
-聚类对比模型 PCL 模型学习过程&lt;br /&gt;
-  模型结构&lt;br /&gt;
-  &lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A064.jpg&#34; alt=&#34;模型结构&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;论文模板学习&lt;br /&gt;
-  学习成果&lt;br /&gt;
-  文章结构整理&lt;br /&gt;
-   &lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A065.jpg&#34; alt=&#34;学习成果&#34; /&gt;&lt;br /&gt;
-   &lt;img data-src=&#34;/assets/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A066.jpg&#34; alt=&#34;学习成果&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <category term="5-8组" scheme="http://example.com/categories/fivetoeight/" />
-        <category term="Python" scheme="http://example.com/tags/Python/" />
-        <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
-        <category term="无监督学习" scheme="http://example.com/tags/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/" />
-        <updated>2023-01-19T16:00:00.000Z</updated>
-    </entry>
-    <entry>
         <id>http://example.com/2023/01/20/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB/</id>
         <title>少样本识别</title>
         <link rel="alternate" href="http://example.com/2023/01/20/%E5%B0%91%E6%A0%B7%E6%9C%AC%E8%AF%86%E5%88%AB/"/>
@@ -469,6 +478,79 @@
         <category term="图像识别" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB/" />
         <category term="小样本学习" scheme="http://example.com/tags/%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/" />
         <category term="机器学习" scheme="http://example.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" />
+        <updated>2023-01-19T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2023/01/20/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</id>
+        <title>异常检测</title>
+        <link rel="alternate" href="http://example.com/2023/01/20/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+        <content type="html">&lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
+&lt;p&gt;题目&lt;br /&gt;
+基于中心引导判别学习的弱监督视频异常检测。&lt;br /&gt;
+简介&lt;br /&gt;
+视频异常检测是计算机视觉中一项重要而又具有挑战性的任务，被广泛应用于犯罪预警、智能视频监控和证据收集等领域。&lt;br /&gt;
+由于异常视频内容和时长的多样性，监控视频中的异常检测是一项具有挑战性的任务。本项目中视频异常检测被看作是一个弱监督下视频片段异常分数的回归问题。我们使用 AR-Net 异常检测框架，它在训练阶段只需要视频级别的标签。此外，为了学习异常检测的判别特征，我们运用一个动态多实例学习损失和一个中心损失。前者用于扩大异常实例和正常实例之间的类间距离，而后者用于缩小正常实例的类内距离。综合实验是在一个具有挑战性的 benchmark 上进行的: Shang-haiTech。该方法为 Shang-haiTech 数据集上的视频异常检测提供了新的最优结果。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2001 朱好好 2030330044&lt;/li&gt;
+&lt;li&gt;智能 2002 刘卓 2030330055&lt;/li&gt;
+&lt;li&gt;智能 2002 高宇静 2030330066&lt;/li&gt;
+&lt;li&gt;智能 2002 李若婉 2030330069&lt;/li&gt;
+&lt;li&gt;智能 2002 叶如玉 2030330082&lt;/li&gt;
+&lt;li&gt;智能 2001 李康胜 2030330006&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：朱好好&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学 pytorch 配置环境&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：朱好好&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;环境已经配置完成&lt;/li&gt;
+&lt;li&gt;开始学习 tensorboard&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：李若婉&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;跑代码&lt;/li&gt;
+&lt;li&gt;处理数据集&lt;/li&gt;
+&lt;li&gt;继续学习 pytorch&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B6.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：朱好好&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;跑代码&lt;/li&gt;
+&lt;li&gt;处理数据集&lt;/li&gt;
+&lt;li&gt;组员学习完 pytorch 视频&lt;/li&gt;
+&lt;li&gt;环境配置已成功&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：李若婉&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;已经跑通代码&lt;/li&gt;
+&lt;li&gt;下周计划理解论文，读论文&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B1.jpg&#34; alt=&#34;跑通代码&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第六周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六周&#34;&gt;#&lt;/a&gt; 第六周&lt;/h2&gt;
+&lt;p&gt;汇报人：叶如玉&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;了解了综述的学术意义，阅读已有的参考模板，学习综述的写作思路&lt;/li&gt;
+&lt;li&gt;确定文献检索涵盖的范围，和保留及引用文献的广度和深度（15 条文献以内为宜，3~5 年内最新文献为主）&lt;/li&gt;
+&lt;li&gt;检索与阅读文献，并且尝试对所阅文献进行归纳总结，为综述写作积累资料&lt;/li&gt;
+&lt;li&gt;学习综述的构成，并且对相关主题进行了部分内容填充&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;p&gt;汇报人：李若婉&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;看综述文章&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
+        <category term="深度学习" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/" />
+        <category term="异常检测" scheme="http://example.com/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/" />
         <updated>2023-01-19T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -544,79 +626,6 @@
         <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
         <category term="Github" scheme="http://example.com/tags/Github/" />
         <category term="Markdown" scheme="http://example.com/tags/Markdown/" />
-        <updated>2023-01-19T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2023/01/20/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</id>
-        <title>异常检测</title>
-        <link rel="alternate" href="http://example.com/2023/01/20/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
-        <content type="html">&lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
-&lt;p&gt;题目&lt;br /&gt;
-基于中心引导判别学习的弱监督视频异常检测。&lt;br /&gt;
-简介&lt;br /&gt;
-视频异常检测是计算机视觉中一项重要而又具有挑战性的任务，被广泛应用于犯罪预警、智能视频监控和证据收集等领域。&lt;br /&gt;
-由于异常视频内容和时长的多样性，监控视频中的异常检测是一项具有挑战性的任务。本项目中视频异常检测被看作是一个弱监督下视频片段异常分数的回归问题。我们使用 AR-Net 异常检测框架，它在训练阶段只需要视频级别的标签。此外，为了学习异常检测的判别特征，我们运用一个动态多实例学习损失和一个中心损失。前者用于扩大异常实例和正常实例之间的类间距离，而后者用于缩小正常实例的类内距离。综合实验是在一个具有挑战性的 benchmark 上进行的: Shang-haiTech。该方法为 Shang-haiTech 数据集上的视频异常检测提供了新的最优结果。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;智能 2001 朱好好 2030330044&lt;/li&gt;
-&lt;li&gt;智能 2002 刘卓 2030330055&lt;/li&gt;
-&lt;li&gt;智能 2002 高宇静 2030330066&lt;/li&gt;
-&lt;li&gt;智能 2002 李若婉 2030330069&lt;/li&gt;
-&lt;li&gt;智能 2002 叶如玉 2030330082&lt;/li&gt;
-&lt;li&gt;智能 2001 李康胜 2030330006&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：朱好好&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学 pytorch 配置环境&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：朱好好&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;环境已经配置完成&lt;/li&gt;
-&lt;li&gt;开始学习 tensorboard&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：李若婉&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;跑代码&lt;/li&gt;
-&lt;li&gt;处理数据集&lt;/li&gt;
-&lt;li&gt;继续学习 pytorch&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B6.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：朱好好&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;跑代码&lt;/li&gt;
-&lt;li&gt;处理数据集&lt;/li&gt;
-&lt;li&gt;组员学习完 pytorch 视频&lt;/li&gt;
-&lt;li&gt;环境配置已成功&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
-&lt;p&gt;汇报人：李若婉&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;已经跑通代码&lt;/li&gt;
-&lt;li&gt;下周计划理解论文，读论文&lt;br /&gt;
-&lt;img data-src=&#34;/assets/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B1.jpg&#34; alt=&#34;跑通代码&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第六周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六周&#34;&gt;#&lt;/a&gt; 第六周&lt;/h2&gt;
-&lt;p&gt;汇报人：叶如玉&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;了解了综述的学术意义，阅读已有的参考模板，学习综述的写作思路&lt;/li&gt;
-&lt;li&gt;确定文献检索涵盖的范围，和保留及引用文献的广度和深度（15 条文献以内为宜，3~5 年内最新文献为主）&lt;/li&gt;
-&lt;li&gt;检索与阅读文献，并且尝试对所阅文献进行归纳总结，为综述写作积累资料&lt;/li&gt;
-&lt;li&gt;学习综述的构成，并且对相关主题进行了部分内容填充&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
-&lt;p&gt;汇报人：李若婉&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;看综述文章&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
-        <category term="深度学习" scheme="http://example.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/" />
-        <category term="异常检测" scheme="http://example.com/tags/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/" />
         <updated>2023-01-19T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -754,6 +763,13 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;li&gt;函数部分正在进行&lt;/li&gt;
 &lt;li&gt;重新配置环境&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;p&gt;汇报人：张广&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;疏通代码&lt;/li&gt;
+&lt;li&gt;学习论文&lt;/li&gt;
+&lt;li&gt;代码基本完成&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
         <category term="Python" scheme="http://example.com/tags/Python/" />
@@ -835,6 +851,12 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;img data-src=&#34;/assets/%E7%BA%A2%E5%A4%96%E5%9B%BE%E5%83%8F%E8%9E%8D%E5%90%88%EF%BC%88%E7%AC%AC%E5%85%AD%E5%91%A84%EF%BC%89.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;/assets/%E7%BA%A2%E5%A4%96%E5%9B%BE%E5%83%8F%E8%9E%8D%E5%90%88%EF%BC%88%E7%AC%AC%E5%85%AD%E5%91%A85%EF%BC%89.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;汇报人：张梓聪&lt;/li&gt;
+&lt;li&gt;继续学习学习 python pytorch 网课&lt;/li&gt;
+&lt;li&gt;初步开始测试数据&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="9-12组" scheme="http://example.com/categories/ninetotwelve/" />
         <category term="Python" scheme="http://example.com/tags/Python/" />
@@ -909,6 +931,11 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
   可视化学习到的持续时间关系 (例如季节性)；&lt;br /&gt;
   由于存在重要的政权或事件，时间模式可能突然变化，识别重大事件是有用的，动态地修改注意模式&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;p&gt;汇报人：于瀛&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新模型代码跑通&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="1-4组" scheme="http://example.com/categories/onetofour/" />
         <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
@@ -970,6 +997,11 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;li&gt;看了代码的输入输出&lt;/li&gt;
 &lt;li&gt;了解了阶跃信号&lt;/li&gt;
 &lt;li&gt;还在看代码画结构图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘洋&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;完成代码的结构图&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
@@ -1042,6 +1074,16 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;img data-src=&#34;/assets/zera01%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84train.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;/assets/zera02%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84train.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘政&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;继续学习 python 和 pytorch 相关的知识&lt;/li&gt;
+&lt;li&gt;开始跑代码&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E7%AC%AC%E4%B8%83%E5%91%A81.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E7%AC%AC%E4%B8%83%E5%91%A82.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E7%AC%AC%E4%B8%83%E5%91%A83.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E7%AC%AC%E4%B8%83%E5%91%A84.jpg&#34; alt=&#34;图片&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="13-15组" scheme="http://example.com/categories/thirteen-fifteen/" />
         <category term="Python" scheme="http://example.com/tags/Python/" />
@@ -1108,6 +1150,20 @@ AnomalyTransformer: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kcm
 &lt;li&gt;学习 mlp 神经网络&lt;br /&gt;
  【【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0 - 哔哩哔哩】 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iMjMudHYvVE9sU2pqbw==&#34;&gt;https://b23.tv/TOlSjjo&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;通读论文&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;p&gt;汇报人：刘元伟&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B71.jpg&#34; alt=&#34;进度汇报&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nn.Linear: 用于设置网络中的全连接层&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B72.jpg&#34; alt=&#34;nn.Linear&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Layernorm, Batchnorm&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B73.jpg&#34; alt=&#34;Layernorm, Batchnorm&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;残差连接：解决深度神经网络隐藏层过多时的网络退化问题而提出&lt;/li&gt;
+&lt;li&gt;Smlp/tmlp&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B74.jpg&#34; alt=&#34;Smlp/tmlp&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Seblock&lt;br /&gt;
+&lt;img data-src=&#34;/assets/%E8%BF%90%E5%8A%A8%E9%A2%84%E6%B5%8B75.jpg&#34; alt=&#34;Seblock&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="5-8组" scheme="http://example.com/categories/fivetoeight/" />
