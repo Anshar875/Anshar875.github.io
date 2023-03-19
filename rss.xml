@@ -13,84 +13,6 @@
         <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
         <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2023/01/20/%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1/</guid>
-            <title>人体姿态估计</title>
-            <link>http://example.com/2023/01/20/%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1/</link>
-            <category term="9-12组" scheme="http://example.com/categories/ninetotwelve/" />
-            <category term="Python" scheme="http://example.com/tags/Python/" />
-            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
-            <category term="计算机视觉" scheme="http://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" />
-            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
-&lt;p&gt;人体姿态估计是最具有挑战性的研究领域之一。随着深度学习在目标检测、语义分割等计算机任务上表现出不错的性能，人体姿态估计也同样利用深度学习的技术取得快速的进步。&lt;br /&gt;
-人体姿态估计是给定一幅图像或者一段视频，从中去恢复人体关节点的过程。利用深度学习进行姿态估计的方法大致分为两种：自上而下的方法和自下而上的方法。自上而下（top-down），即先检测出来人体，再对单个人进行姿态估计；而自下而上（down-top），则是先检测出人体关节点，再根据检测出来的关节点连成人体骨架。&lt;/p&gt;
-&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;智能 2001 林碧军 2030330029&lt;/li&gt;
-&lt;li&gt;智能 2001 李怡坤 2030330028&lt;/li&gt;
-&lt;li&gt;智能 2001 黄芙铭 2030330024&lt;/li&gt;
-&lt;li&gt;智能 2001 马心宇 2030330032&lt;/li&gt;
-&lt;li&gt;智能 2001 申晓羽 2030330034&lt;/li&gt;
-&lt;li&gt;智能 2001 胡健杰 2030330005&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
-&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
-&lt;p&gt;汇报人：林碧军&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;小组成员学习 python 和 pytorch 基础，更深入理解人体姿态预测，把握项目的大致背景&lt;/li&gt;
-&lt;li&gt;观看了相关的学习视频&lt;/li&gt;
-&lt;li&gt;论文和代码：小组成员对论文进行了初步的翻译阅读和理解，并进行了部分批注，代码部分初步开始对应阅读和理解&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
-&lt;p&gt;汇报人：林碧军&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;小组成员继续学习 python 和 pytorch 基础&lt;/li&gt;
-&lt;li&gt;观看相关的学习视频，寻找课题的新想法，同类课题创新点&lt;/li&gt;
-&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分初步开始对应阅读和理解，绘制项目对应的结构图&lt;/li&gt;
-&lt;li&gt;实验：环境初步配置，实验尚未开始。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
-&lt;p&gt;汇报人：马心宇&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;小组成员继续学习 python 和 pytorch 基础&lt;/li&gt;
-&lt;li&gt;观看相关的学习视频。&lt;/li&gt;
-&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分初步开始对应阅读和理解，绘制项目对应的结构图。&lt;/li&gt;
-&lt;li&gt;实验：环境配置，实验开始。已经开始跑代码。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
-&lt;p&gt;汇报人：马心宇&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学习情况：小组成员开始学习论文和对应代码&lt;/li&gt;
-&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分初步开始对应阅读和理解，绘制项目对应的结构图。&lt;/li&gt;
-&lt;li&gt;实验：实验开始。基本跑通代码。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
-&lt;p&gt;汇报人：林碧军&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学习情况：小组成员学习 smoothnet 与 dmae 两个工程项目的论文和对应代码，基本掌握了大致框架，通过学习 MAE 来进一步学习 DMAE。&lt;/li&gt;
-&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分已经对应阅读和理解，能够掌握各代码大致的内容作用&lt;/li&gt;
-&lt;li&gt;实验：基本跑通代码 - smoothnet 已经跑通，dame 代码尚有报错，项目评估部分的代码还在看&lt;/li&gt;
-&lt;li&gt;下周计划：加强代码学习，了解模型架构，学习数据的处理与变换，掌握模型的输入输出。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第六周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六周&#34;&gt;#&lt;/a&gt; 第六周&lt;/h2&gt;
-&lt;p&gt;汇报人：申晓羽&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学习情况：小组成员学习 smoothnet 论文和对应代码，基本掌握了大致框架。学习 Visio 绘图，并用 Visio 绘制出初步的图示。&lt;/li&gt;
-&lt;li&gt;论文和代码：代码部分已经对应阅读和理解，能够掌握各代码大致的内容作用，但仍有待加强。&lt;/li&gt;
-&lt;li&gt;实验：smoothnet 已经跑通，进一步学习代码核心，结合论文更好的理解。&lt;/li&gt;
-&lt;li&gt;下周计划：加强代码与论文的对应学习，了解模型架构，掌握模型的输入输出，完善作图，加强论文代码的图示。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
-&lt;p&gt;汇报人：林碧军&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;学习情况：小组成员初步完善网络结构框图，细化代码学习，已经对项目的理解较为深刻，探索模型的优化方案，提出相关问题。&lt;/li&gt;
-&lt;li&gt;论文和代码：小组成员能够将代码和论文细化对应，掌握项目整体架构，预设新的代码修改方案。&lt;/li&gt;
-&lt;li&gt;实验：开始进行优化实验，尝试模型的初步修改。&lt;/li&gt;
-&lt;li&gt;下周计划：学习 DynaMixer 和 MLP-based 3D，尝试理解核心部分，将其应用于 smoothnet 的模型优化。&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://example.com/2023/01/20/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/</guid>
             <title>光流去模糊</title>
             <link>http://example.com/2023/01/20/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A/</link>
@@ -166,6 +88,84 @@
 &lt;li&gt;论文学习：经过模板论文的学习，了解了论文的基本结构，基本理顺论文的步骤和框架，对论文的关键词及重要步骤进行注释。&lt;/li&gt;
 &lt;li&gt;预计下周完成：继续完成代码的修改，继续学习论文的写作&lt;br /&gt;
 &lt;img data-src=&#34;/assets/%E5%85%89%E6%B5%81%E5%8E%BB%E6%A8%A1%E7%B3%8A%E5%9B%BE1.png&#34; alt=&#34;test&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/01/20/%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1/</guid>
+            <title>人体姿态估计</title>
+            <link>http://example.com/2023/01/20/%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1/</link>
+            <category term="9-12组" scheme="http://example.com/categories/ninetotwelve/" />
+            <category term="Python" scheme="http://example.com/tags/Python/" />
+            <category term="PyTorch" scheme="http://example.com/tags/PyTorch/" />
+            <category term="计算机视觉" scheme="http://example.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" />
+            <pubDate>Fri, 20 Jan 2023 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;课题介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题介绍&#34;&gt;#&lt;/a&gt; 课题介绍&lt;/h1&gt;
+&lt;p&gt;人体姿态估计是最具有挑战性的研究领域之一。随着深度学习在目标检测、语义分割等计算机任务上表现出不错的性能，人体姿态估计也同样利用深度学习的技术取得快速的进步。&lt;br /&gt;
+人体姿态估计是给定一幅图像或者一段视频，从中去恢复人体关节点的过程。利用深度学习进行姿态估计的方法大致分为两种：自上而下的方法和自下而上的方法。自上而下（top-down），即先检测出来人体，再对单个人进行姿态估计；而自下而上（down-top），则是先检测出人体关节点，再根据检测出来的关节点连成人体骨架。&lt;/p&gt;
+&lt;h1 id=&#34;小组成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小组成员&#34;&gt;#&lt;/a&gt; 小组成员&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;智能 2001 林碧军 2030330029&lt;/li&gt;
+&lt;li&gt;智能 2001 李怡坤 2030330028&lt;/li&gt;
+&lt;li&gt;智能 2001 黄芙铭 2030330024&lt;/li&gt;
+&lt;li&gt;智能 2001 马心宇 2030330032&lt;/li&gt;
+&lt;li&gt;智能 2001 申晓羽 2030330034&lt;/li&gt;
+&lt;li&gt;智能 2001 胡健杰 2030330005&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;课题进度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题进度&#34;&gt;#&lt;/a&gt; 课题进度&lt;/h1&gt;
+&lt;h2 id=&#34;第一周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一周&#34;&gt;#&lt;/a&gt; 第一周&lt;/h2&gt;
+&lt;p&gt;汇报人：林碧军&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;小组成员学习 python 和 pytorch 基础，更深入理解人体姿态预测，把握项目的大致背景&lt;/li&gt;
+&lt;li&gt;观看了相关的学习视频&lt;/li&gt;
+&lt;li&gt;论文和代码：小组成员对论文进行了初步的翻译阅读和理解，并进行了部分批注，代码部分初步开始对应阅读和理解&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第二周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二周&#34;&gt;#&lt;/a&gt; 第二周&lt;/h2&gt;
+&lt;p&gt;汇报人：林碧军&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;小组成员继续学习 python 和 pytorch 基础&lt;/li&gt;
+&lt;li&gt;观看相关的学习视频，寻找课题的新想法，同类课题创新点&lt;/li&gt;
+&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分初步开始对应阅读和理解，绘制项目对应的结构图&lt;/li&gt;
+&lt;li&gt;实验：环境初步配置，实验尚未开始。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第三周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三周&#34;&gt;#&lt;/a&gt; 第三周&lt;/h2&gt;
+&lt;p&gt;汇报人：马心宇&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;小组成员继续学习 python 和 pytorch 基础&lt;/li&gt;
+&lt;li&gt;观看相关的学习视频。&lt;/li&gt;
+&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分初步开始对应阅读和理解，绘制项目对应的结构图。&lt;/li&gt;
+&lt;li&gt;实验：环境配置，实验开始。已经开始跑代码。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第四周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四周&#34;&gt;#&lt;/a&gt; 第四周&lt;/h2&gt;
+&lt;p&gt;汇报人：马心宇&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习情况：小组成员开始学习论文和对应代码&lt;/li&gt;
+&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分初步开始对应阅读和理解，绘制项目对应的结构图。&lt;/li&gt;
+&lt;li&gt;实验：实验开始。基本跑通代码。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第五周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五周&#34;&gt;#&lt;/a&gt; 第五周&lt;/h2&gt;
+&lt;p&gt;汇报人：林碧军&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习情况：小组成员学习 smoothnet 与 dmae 两个工程项目的论文和对应代码，基本掌握了大致框架，通过学习 MAE 来进一步学习 DMAE。&lt;/li&gt;
+&lt;li&gt;论文和代码：小组成员对论文进行理解批注，代码部分已经对应阅读和理解，能够掌握各代码大致的内容作用&lt;/li&gt;
+&lt;li&gt;实验：基本跑通代码 - smoothnet 已经跑通，dame 代码尚有报错，项目评估部分的代码还在看&lt;/li&gt;
+&lt;li&gt;下周计划：加强代码学习，了解模型架构，学习数据的处理与变换，掌握模型的输入输出。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第六周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六周&#34;&gt;#&lt;/a&gt; 第六周&lt;/h2&gt;
+&lt;p&gt;汇报人：申晓羽&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习情况：小组成员学习 smoothnet 论文和对应代码，基本掌握了大致框架。学习 Visio 绘图，并用 Visio 绘制出初步的图示。&lt;/li&gt;
+&lt;li&gt;论文和代码：代码部分已经对应阅读和理解，能够掌握各代码大致的内容作用，但仍有待加强。&lt;/li&gt;
+&lt;li&gt;实验：smoothnet 已经跑通，进一步学习代码核心，结合论文更好的理解。&lt;/li&gt;
+&lt;li&gt;下周计划：加强代码与论文的对应学习，了解模型架构，掌握模型的输入输出，完善作图，加强论文代码的图示。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第七周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七周&#34;&gt;#&lt;/a&gt; 第七周&lt;/h2&gt;
+&lt;p&gt;汇报人：林碧军&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习情况：小组成员初步完善网络结构框图，细化代码学习，已经对项目的理解较为深刻，探索模型的优化方案，提出相关问题。&lt;/li&gt;
+&lt;li&gt;论文和代码：小组成员能够将代码和论文细化对应，掌握项目整体架构，预设新的代码修改方案。&lt;/li&gt;
+&lt;li&gt;实验：开始进行优化实验，尝试模型的初步修改。&lt;/li&gt;
+&lt;li&gt;下周计划：学习 DynaMixer 和 MLP-based 3D，尝试理解核心部分，将其应用于 smoothnet 的模型优化。&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -628,6 +628,14 @@
 &lt;li&gt;学习美化网站页面的基本知识，充实网站内容&lt;/li&gt;
 &lt;li&gt;收集各小组的进度并且写入网站中&lt;/li&gt;
 &lt;li&gt;准备撰写实验报告&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第八周&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八周&#34;&gt;#&lt;/a&gt; 第八周&lt;/h2&gt;
+&lt;p&gt;汇报人：邹佳欣&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;收集各小组进度信息并上传&lt;/li&gt;
+&lt;li&gt;上传图片，研究如何上传文件到网站&lt;/li&gt;
+&lt;li&gt;学习论文和相关知识，梳理论文框架&lt;/li&gt;
+&lt;li&gt;开始写论文，学习科研工具的使用&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
